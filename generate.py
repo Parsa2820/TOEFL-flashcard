@@ -39,10 +39,12 @@ for lesson_html in lessons_html:
             lesson.words.append(word)
     lessons.append(lesson)
 
+lessons.sort(key=lambda x: x.title)
+
 with open('readme.md.template') as f:
     template = jinja2.Template(f.read())
 with open('README.md', 'w') as f:
-    f.write(template.render(lessons))
+    f.write(template.render(lessons=lessons))
 
 for lesson in lessons:
     with open('lesson.md.template') as f:
