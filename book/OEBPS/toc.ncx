@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+<head>
+<meta content="9781438092638" name="dtb:uid"/>
+<meta content="2" name="dtb:depth"/>
+<meta content="" name="dtb:generator"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>Essential Words for the Toefl&#174;</text>
+</docTitle>
+<navMap>
+<navPoint id="navPoint-1" playOrder="1"><navLabel><text>Cover Page</text></navLabel><content src="coverpage.html"/></navPoint>
+<navPoint id="navPoint-2" playOrder="2"><navLabel><text>Title Page</text></navLabel><content src="titlepage.html"/></navPoint>
+<navPoint id="navPoint-3" playOrder="3"><navLabel><text>Copyright Page</text></navLabel><content src="copyright.html"/></navPoint>
+<navPoint id="navPoint-4" playOrder="4"><navLabel><text>Contents</text></navLabel><content src="content.html"/></navPoint>
+<navPoint id="navPoint-5" playOrder="5"><navLabel><text>INTRODUCTION: Success on the TOEFL</text></navLabel><content src="introduction.html#ch_1"/>
+<navPoint id="navPoint-6" playOrder="6"><navLabel><text>Maximizing Your Vocabulary Potential&#8212;A Description of This Program</text></navLabel><content src="introduction.html#sy_1"/></navPoint>
+</navPoint>
+<navPoint id="navPoint-7" playOrder="7"><navLabel><text>CHAPTER 1: Getting to Know the TOEFL</text></navLabel><content src="chapter1.html#ch_2"/>
+<navPoint id="navPoint-8" playOrder="8"><navLabel><text>What Is the TOEFL?</text></navLabel><content src="chapter1.html#sy_2"/></navPoint>
+<navPoint id="navPoint-9" playOrder="9"><navLabel><text>About the iBT (Internet-Based TOEFL)</text></navLabel><content src="chapter1.html#sy_3"/></navPoint>
+<navPoint id="navPoint-10" playOrder="10"><navLabel><text>About the ITP TOEFL (Institutional TOEFL Program)</text></navLabel><content src="chapter1.html#sy_4"/></navPoint>
+<navPoint id="navPoint-11" playOrder="11"><navLabel><text>The iBT</text></navLabel><content src="chapter1.html#sy_5"/></navPoint>
+<navPoint id="navPoint-12" playOrder="12"><navLabel><text>Section 1: Reading</text></navLabel><content src="chapter1.html#sy_6"/></navPoint>
+<navPoint id="navPoint-13" playOrder="13"><navLabel><text>Section 2: Listening</text></navLabel><content src="chapter1.html#sy_7"/></navPoint>
+<navPoint id="navPoint-14" playOrder="14"><navLabel><text>Section 3: Speaking</text></navLabel><content src="chapter1.html#sy_8"/></navPoint>
+<navPoint id="navPoint-15" playOrder="15"><navLabel><text>Section 4: Writing</text></navLabel><content src="chapter1.html#sy_9"/></navPoint>
+<navPoint id="navPoint-16" playOrder="16"><navLabel><text>The ITP (The Paper-Based TOEFL)</text></navLabel><content src="chapter1.html#sy_10"/></navPoint>
+<navPoint id="navPoint-17" playOrder="17"><navLabel><text>Section 1: Listening</text></navLabel><content src="chapter1.html#sy_11"/></navPoint>
+<navPoint id="navPoint-18" playOrder="18"><navLabel><text>Section 2: Structure and Written Expression</text></navLabel><content src="chapter1.html#sy_12"/></navPoint>
+<navPoint id="navPoint-19" playOrder="19"><navLabel><text>Section 3: Reading Comprehension</text></navLabel><content src="chapter1.html#sy_13"/></navPoint>
+<navPoint id="navPoint-20" playOrder="20"><navLabel><text>Some Helpful Hints for Both Formats of the TOEFL</text></navLabel><content src="chapter1.html#sy_14"/></navPoint>
+</navPoint>
+<navPoint id="navPoint-21" playOrder="21"><navLabel><text>CHAPTER 2: Understanding the TOEFL Reading Section</text></navLabel><content src="chapter2.html#ch_3"/>
+<navPoint id="navPoint-22" playOrder="22"><navLabel><text>Sample Questions</text></navLabel><content src="chapter2.html#sy_15"/></navPoint>
+<navPoint id="navPoint-23" playOrder="23"><navLabel><text>Strategy for the iBT and ITP TOEFL</text></navLabel><content src="chapter2.html#sy_16"/></navPoint>
+</navPoint>
+<navPoint id="navPoint-24" playOrder="24"><navLabel><text>CHAPTER 3: Improving Your TOEFL Vocabulary</text></navLabel><content src="chapter3.html#ch_4"/>
+<navPoint id="navPoint-25" playOrder="25"><navLabel><text>The Importance of Reading &#8230; A Lot!</text></navLabel><content src="chapter3.html#sy_17"/></navPoint>
+<navPoint id="navPoint-26" playOrder="26"><navLabel><text>Make Flash Cards</text></navLabel><content src="chapter3.html#sy_18"/></navPoint>
+<navPoint id="navPoint-27" playOrder="27"><navLabel><text>Make Word Lists</text></navLabel><content src="chapter3.html#sy_19"/></navPoint>
+<navPoint id="navPoint-28" playOrder="28"><navLabel><text>Learn Words from Old TOEFLs</text></navLabel><content src="chapter3.html#sy_20"/></navPoint>
+<navPoint id="navPoint-29" playOrder="29"><navLabel><text>Learn the Words in This Book</text></navLabel><content src="chapter3.html#sy_21"/></navPoint>
+<navPoint id="navPoint-30" playOrder="30"><navLabel><text>Learn to Use a Thesaurus</text></navLabel><content src="chapter3.html#sy_22"/></navPoint>
+</navPoint>
+<navPoint id="navPoint-31" playOrder="31"><navLabel><text>CHAPTER 4: Building Your TOEFL Vocabulary</text></navLabel><content src="chapter4.html#ch_5"/>
+<navPoint id="navPoint-32" playOrder="32"><navLabel><text>Developing Word Attack Skills</text></navLabel><content src="chapter4.html#sy_23"/></navPoint>
+<navPoint id="navPoint-33" playOrder="33"><navLabel><text>Important Vocabulary Building Tools</text></navLabel><content src="chapter4.html#sy_24"/></navPoint>
+</navPoint>
+<navPoint id="navPoint-34" playOrder="34"><navLabel><text>CHAPTER 5: The Essential TOEFL Vocabulary</text></navLabel><content src="chapter5.html#ch_6"/>
+<navPoint id="navPoint-35" playOrder="35"><navLabel><text>Studying the Word Entries</text></navLabel><content src="chapter5.html#sy_25"/></navPoint>
+<navPoint id="navPoint-36" playOrder="36"><navLabel><text>Answering Phrasal Questions</text></navLabel><content src="chapter5.html#sy_26"/></navPoint>
+<navPoint id="navPoint-37" playOrder="37"><navLabel><text>Lessons 1&#8211;30</text></navLabel><content src="lesson_01.html#sy_27"/></navPoint>
+<navPoint id="navPoint-38" playOrder="38"><navLabel><text>Answers to Exercises: Lessons 1&#8211;30</text></navLabel><content src="answer.html#sy_28"/></navPoint>
+</navPoint>
+<navPoint id="navPoint-39" playOrder="39"><navLabel><text>CHAPTER 6: The iBT Practice Test</text></navLabel><content src="chapter6.html#ch_7"/>
+<navPoint id="navPoint-40" playOrder="40"><navLabel><text>General Directions</text></navLabel><content src="chapter6.html#sy_29"/></navPoint>
+<navPoint id="navPoint-41" playOrder="41"><navLabel><text>iBT Reading Section</text></navLabel><content src="chapter6.html#sy_30"/></navPoint>
+<navPoint id="navPoint-42" playOrder="42"><navLabel><text>Answers to iBT Practice Test</text></navLabel><content src="answer.html#sy_31"/></navPoint>
+<navPoint id="navPoint-43" playOrder="43"><navLabel><text>Scoring Your iBT Practice Test</text></navLabel><content src="chapter6.html#sy_32"/></navPoint>
+<navPoint id="navPoint-44" playOrder="44"><navLabel><text>iBT and ITP Reading Section Score Conversion Tables</text></navLabel><content src="chapter6.html#sy_33"/></navPoint>
+</navPoint>
+</navMap>
+</ncx>

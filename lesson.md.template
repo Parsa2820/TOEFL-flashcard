@@ -1,0 +1,10 @@
+# {{ lesson.title }}
+{% for word in lesson.words %}
+## {{ word.word }}
+<details>
+<summary>I don't know</summary>
+{% for key, value in word.details.items() %}
++ {{ key }} &nbsp; &nbsp; {{ value }}
+{% endfor %}
+</details>
+{% endfor %}
