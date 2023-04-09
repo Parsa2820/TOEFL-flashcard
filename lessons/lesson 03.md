@@ -4,9 +4,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; to change or make different
++ v. &nbsp; &nbsp; to change or make different
 
-+    n. &nbsp; &nbsp; alteration
++ n. &nbsp; &nbsp; alteration
 
 + adj. &nbsp; &nbsp; alterable
 
@@ -20,9 +20,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; to study something carefully; to separate into parts for study
++ v. &nbsp; &nbsp; to study something carefully; to separate into parts for study
 
-+    n. &nbsp; &nbsp; analysis
++ n. &nbsp; &nbsp; analysis
 
 + syn. &nbsp; &nbsp; examine
 
@@ -42,9 +42,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; annoyance
++ n. &nbsp; &nbsp; annoyance
 
-+    v. &nbsp; &nbsp; annoy
++ v. &nbsp; &nbsp; annoy
 
 + adv. &nbsp; &nbsp; annoyingly
 
@@ -60,9 +60,9 @@
 
 + adj. &nbsp; &nbsp; anticipatory
 
-+    n. &nbsp; &nbsp; anticipation
++ n. &nbsp; &nbsp; anticipation
 
-+    v. &nbsp; &nbsp; to think about or prepare for something ahead of time
++ v. &nbsp; &nbsp; to think about or prepare for something ahead of time
 
 + syn. &nbsp; &nbsp; predict
 
@@ -76,9 +76,9 @@
 
 + adv. &nbsp; &nbsp; ascertainably
 
-+    n. &nbsp; &nbsp; ascertainment
++ n. &nbsp; &nbsp; ascertainment
 
-+    v. &nbsp; &nbsp; to discover; find out
++ v. &nbsp; &nbsp; to discover; find out
 
 + syn. &nbsp; &nbsp; determine
 
@@ -88,9 +88,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; conformist
++ n. &nbsp; &nbsp; conformist
 
-+    v. &nbsp; &nbsp; to follow established rules or patterns of behavior
++ v. &nbsp; &nbsp; to follow established rules or patterns of behavior
 
 + syn. &nbsp; &nbsp; adapt
 
@@ -100,11 +100,11 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; enrichment
++ n. &nbsp; &nbsp; enrichment
 
 + adj. &nbsp; &nbsp; enriching
 
-+    v. &nbsp; &nbsp; to make rich; to make something of greater value
++ v. &nbsp; &nbsp; to make rich; to make something of greater value
 
 + syn. &nbsp; &nbsp; enhance
 
@@ -114,13 +114,13 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; intensity
++ n. &nbsp; &nbsp; intensity
 
 + adj. &nbsp; &nbsp; intensive
 
 + adv. &nbsp; &nbsp; intensively
 
-+    v. &nbsp; &nbsp; to make stronger in feeling or quality
++ v. &nbsp; &nbsp; to make stronger in feeling or quality
 
 + syn. &nbsp; &nbsp; heighten
 
@@ -130,7 +130,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; intolerance
++ n. &nbsp; &nbsp; intolerance
 
 + adv. &nbsp; &nbsp; intolerantly
 
@@ -158,7 +158,7 @@
 
 + adv. &nbsp; &nbsp; potentially
 
-+    n. &nbsp; &nbsp; an ability, happening, or opportunity that has not occurred or been developed
++ n. &nbsp; &nbsp; an ability, happening, or opportunity that has not occurred or been developed
 
 + syn. &nbsp; &nbsp; possibility
 
@@ -168,11 +168,11 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; proposition
++ n. &nbsp; &nbsp; proposition
 
 + adj. &nbsp; &nbsp; proposed
 
-+    v. &nbsp; &nbsp; to suggest or plan to do something
++ v. &nbsp; &nbsp; to suggest or plan to do something
 
 + syn. &nbsp; &nbsp; suggest
 
@@ -182,11 +182,11 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; restoration
++ n. &nbsp; &nbsp; restoration
 
 + adj. &nbsp; &nbsp; restored
 
-+    v. &nbsp; &nbsp; to give back or bring back something; to return to the original condition
++ v. &nbsp; &nbsp; to give back or bring back something; to return to the original condition
 
 + syn. &nbsp; &nbsp; revitalize
 
@@ -196,7 +196,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; a fundamental element or principal part of something
++ n. &nbsp; &nbsp; a fundamental element or principal part of something
 
 + syn. &nbsp; &nbsp; essential (n.)
 
@@ -206,7 +206,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; turbulence
++ n. &nbsp; &nbsp; turbulence
 
 + adv. &nbsp; &nbsp; turbulently
 
@@ -220,7 +220,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; vitality
++ n. &nbsp; &nbsp; vitality
 
 + adv. &nbsp; &nbsp; vitally
 

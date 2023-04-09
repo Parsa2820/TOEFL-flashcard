@@ -18,7 +18,7 @@
 
 + adv. &nbsp; &nbsp; coarsely
 
-+    n. &nbsp; &nbsp; coarseness
++ n. &nbsp; &nbsp; coarseness
 
 + adj. &nbsp; &nbsp; not fine or smooth; not delicate
 
@@ -42,9 +42,9 @@
 
 + adj. &nbsp; &nbsp; comparative
 
-+    v. &nbsp; &nbsp; compare
++ v. &nbsp; &nbsp; compare
 
-+    n. &nbsp; &nbsp; comparison
++ n. &nbsp; &nbsp; comparison
 
 + adv. &nbsp; &nbsp; being measured or judged by comparison
 
@@ -56,7 +56,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; complexity
++ n. &nbsp; &nbsp; complexity
 
 + adj. &nbsp; &nbsp; difficult to understand or explain; having many parts
 
@@ -70,7 +70,7 @@
 
 + adv. &nbsp; &nbsp; conventionally
 
-+    n. &nbsp; &nbsp; convention
++ n. &nbsp; &nbsp; convention
 
 + adj. &nbsp; &nbsp; following accepted rules or standards
 
@@ -84,7 +84,7 @@
 
 + adv. &nbsp; &nbsp; curiously
 
-+    n. &nbsp; &nbsp; curiosity
++ n. &nbsp; &nbsp; curiosity
 
 + adj. &nbsp; &nbsp; odd or strange; eager to learn
 
@@ -96,9 +96,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; emitter
++ n. &nbsp; &nbsp; emitter
 
-+    v. &nbsp; &nbsp; to send out; give off
++ v. &nbsp; &nbsp; to send out; give off
 
 + syn. &nbsp; &nbsp; release
 
@@ -108,9 +108,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; exceed
++ v. &nbsp; &nbsp; exceed
 
-+    n. &nbsp; &nbsp; excess
++ n. &nbsp; &nbsp; excess
 
 + adj. &nbsp; &nbsp; excessive
 
@@ -126,9 +126,9 @@
 
 + adj. &nbsp; &nbsp; exclusive
 
-+    n. &nbsp; &nbsp; exclusion
++ n. &nbsp; &nbsp; exclusion
 
-+    v. &nbsp; &nbsp; exclude
++ v. &nbsp; &nbsp; exclude
 
 + adv. &nbsp; &nbsp; no one else; nothing else; not shared with others
 
@@ -142,9 +142,9 @@
 
 + adj. &nbsp; &nbsp; extinguishable
 
-+    n. &nbsp; &nbsp; extinguishment
++ n. &nbsp; &nbsp; extinguishment
 
-+    v. &nbsp; &nbsp; to bring about the end of something
++ v. &nbsp; &nbsp; to bring about the end of something
 
 + syn. &nbsp; &nbsp; terminate
 
@@ -156,7 +156,7 @@
 
 + adv. &nbsp; &nbsp; immensely
 
-+    n. &nbsp; &nbsp; immensity
++ n. &nbsp; &nbsp; immensity
 
 + adj. &nbsp; &nbsp; extremely large
 
@@ -182,7 +182,7 @@
 
 + adj. &nbsp; &nbsp; routine
 
-+    n. &nbsp; &nbsp; routine
++ n. &nbsp; &nbsp; routine
 
 + adv. &nbsp; &nbsp; regularly; usually done
 
@@ -194,7 +194,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; lasting physical or mental strength
++ n. &nbsp; &nbsp; lasting physical or mental strength
 
 + syn. &nbsp; &nbsp; endurance
 
@@ -204,11 +204,11 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; sufficiency
++ n. &nbsp; &nbsp; sufficiency
 
 + adj. &nbsp; &nbsp; sufficient
 
-+    v. &nbsp; &nbsp; suffice
++ v. &nbsp; &nbsp; suffice
 
 + adv. &nbsp; &nbsp; enough; in a satisfying manner
 
@@ -222,9 +222,9 @@
 
 + adj. &nbsp; &nbsp; visionary*
 
-+    n. &nbsp; &nbsp; vision*
++ n. &nbsp; &nbsp; vision*
 
-+    v. &nbsp; &nbsp; view
++ v. &nbsp; &nbsp; view
 
 + adv. &nbsp; &nbsp; can be seen
 

@@ -4,11 +4,11 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; acknowledgment
++ n. &nbsp; &nbsp; acknowledgment
 
 + adj. &nbsp; &nbsp; acknowledged
 
-+    v. &nbsp; &nbsp; to know, remember, and accept the existence of something
++ v. &nbsp; &nbsp; to know, remember, and accept the existence of something
 
 + syn. &nbsp; &nbsp; recognize
 
@@ -20,9 +20,9 @@
 
 + adj. &nbsp; &nbsp; acquisitive
 
-+    n. &nbsp; &nbsp; acquisition
++ n. &nbsp; &nbsp; acquisition
 
-+    v. &nbsp; &nbsp; to gain or come to possess
++ v. &nbsp; &nbsp; to gain or come to possess
 
 + syn. &nbsp; &nbsp; obtain
 
@@ -32,9 +32,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; assimilation
++ n. &nbsp; &nbsp; assimilation
 
-+    v. &nbsp; &nbsp; to become a part of
++ v. &nbsp; &nbsp; to become a part of
 
 + syn. &nbsp; &nbsp; incorporate
 
@@ -46,7 +46,7 @@
 
 + adj. &nbsp; &nbsp; assorted
 
-+    n. &nbsp; &nbsp; a variety
++ n. &nbsp; &nbsp; a variety
 
 + syn. &nbsp; &nbsp; selection
 
@@ -56,7 +56,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; the standard of; the degree of goodness
++ n. &nbsp; &nbsp; the standard of; the degree of goodness
 
 + syn. &nbsp; &nbsp; quality
 
@@ -66,7 +66,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; condense
++ v. &nbsp; &nbsp; condense
 
 + adj. &nbsp; &nbsp; made smaller; shortened; merge
 
@@ -78,9 +78,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; contradict
++ v. &nbsp; &nbsp; contradict
 
-+    n. &nbsp; &nbsp; contradiction
++ n. &nbsp; &nbsp; contradiction
 
 + adj. &nbsp; &nbsp; not agreeing with the facts or previous statements made on the subject; declared wrong
 
@@ -92,9 +92,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; disregard
++ n. &nbsp; &nbsp; disregard
 
-+    v. &nbsp; &nbsp; to pay no attention
++ v. &nbsp; &nbsp; to pay no attention
 
 + syn. &nbsp; &nbsp; ignore
 
@@ -116,7 +116,7 @@
 
 + adv. &nbsp; &nbsp; prominently
 
-+    n. &nbsp; &nbsp; prominence
++ n. &nbsp; &nbsp; prominence
 
 + adj. &nbsp; &nbsp; famous; having a high position
 
@@ -128,9 +128,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; requisition*
++ v. &nbsp; &nbsp; requisition*
 
-+    n. &nbsp; &nbsp; requisition*
++ n. &nbsp; &nbsp; requisition*
 
 + adj. &nbsp; &nbsp; needed for a specific purpose; *a formal request
 
@@ -144,7 +144,7 @@
 
 + adv. &nbsp; &nbsp; stably
 
-+    n. &nbsp; &nbsp; stability
++ n. &nbsp; &nbsp; stability
 
 + adj. &nbsp; &nbsp; experiencing few or no changes; not moving
 
@@ -156,9 +156,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; unraveling
++ n. &nbsp; &nbsp; unraveling
 
-+    v. &nbsp; &nbsp; to organize; make clear
++ v. &nbsp; &nbsp; to organize; make clear
 
 + syn. &nbsp; &nbsp; separate
 
@@ -170,7 +170,7 @@
 
 + adv. &nbsp; &nbsp; vaguely
 
-+    n. &nbsp; &nbsp; vagueness
++ n. &nbsp; &nbsp; vagueness
 
 + adj. &nbsp; &nbsp; not clear; ambiguous
 
@@ -198,7 +198,7 @@
 
 + adj. &nbsp; &nbsp; voluminous*
 
-+    n. &nbsp; &nbsp; the amount of something contained in a space;*holding a lot
++ n. &nbsp; &nbsp; the amount of something contained in a space;*holding a lot
 
 + syn. &nbsp; &nbsp; quantity
 

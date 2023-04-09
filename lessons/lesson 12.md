@@ -8,9 +8,9 @@
 
 + adj. &nbsp; &nbsp; beneficial
 
-+    n. &nbsp; &nbsp; beneficiary
++ n. &nbsp; &nbsp; beneficiary
 
-+    v. &nbsp; &nbsp; to be useful or helpful
++ v. &nbsp; &nbsp; to be useful or helpful
 
 + syn. &nbsp; &nbsp; assist
 
@@ -22,7 +22,7 @@
 
 + adv. &nbsp; &nbsp; blindly
 
-+    n. &nbsp; &nbsp; blindness
++ n. &nbsp; &nbsp; blindness
 
 + adj. &nbsp; &nbsp; unable to see or understand; to conceal; showing poor judgment or understanding
 
@@ -38,9 +38,9 @@
 
 + adj. &nbsp; &nbsp; broad
 
-+    n. &nbsp; &nbsp; breadth
++ n. &nbsp; &nbsp; breadth
 
-+    v. &nbsp; &nbsp; to make larger or greater
++ v. &nbsp; &nbsp; to make larger or greater
 
 + syn. &nbsp; &nbsp; enlarge
 
@@ -52,7 +52,7 @@
 
 + adj. &nbsp; &nbsp; burgeoning
 
-+    v. &nbsp; &nbsp; growing at a fast pace
++ v. &nbsp; &nbsp; growing at a fast pace
 
 + syn. &nbsp; &nbsp; thrive
 
@@ -76,7 +76,7 @@
 
 + adv. &nbsp; &nbsp; deficiently
 
-+    n. &nbsp; &nbsp; deficiency
++ n. &nbsp; &nbsp; deficiency
 
 + adj. &nbsp; &nbsp; not having enough of something
 
@@ -90,7 +90,7 @@
 
 + adv. &nbsp; &nbsp; eloquently
 
-+    n. &nbsp; &nbsp; eloquence
++ n. &nbsp; &nbsp; eloquence
 
 + adj. &nbsp; &nbsp; expressing clearly, effectively, and convincingly
 
@@ -102,9 +102,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; endorsement
++ n. &nbsp; &nbsp; endorsement
 
-+    v. &nbsp; &nbsp; to express approval
++ v. &nbsp; &nbsp; to express approval
 
 + syn. &nbsp; &nbsp; support
 
@@ -116,7 +116,7 @@
 
 + adv. &nbsp; &nbsp; enormously
 
-+    n. &nbsp; &nbsp; enormity
++ n. &nbsp; &nbsp; enormity
 
 + adj. &nbsp; &nbsp; very large
 
@@ -130,7 +130,7 @@
 
 + adj. &nbsp; &nbsp; entire
 
-+    n. &nbsp; &nbsp; entirety
++ n. &nbsp; &nbsp; entirety
 
 + adv. &nbsp; &nbsp; completely
 
@@ -142,9 +142,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; erosion
++ n. &nbsp; &nbsp; erosion
 
-+    v. &nbsp; &nbsp; to wear away; disappear slowly
++ v. &nbsp; &nbsp; to wear away; disappear slowly
 
 + syn. &nbsp; &nbsp; deteriorate
 
@@ -154,9 +154,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; evaporation
++ n. &nbsp; &nbsp; evaporation
 
-+    v. &nbsp; &nbsp; to vanish
++ v. &nbsp; &nbsp; to vanish
 
 + syn. &nbsp; &nbsp; disappear
 
@@ -166,7 +166,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; noteworthiness
++ n. &nbsp; &nbsp; noteworthiness
 
 + adj. &nbsp; &nbsp; deserving positive recognition or attention
 
@@ -180,9 +180,9 @@
 
 + adj. &nbsp; &nbsp; recoverable
 
-+    n. &nbsp; &nbsp; recovery
++ n. &nbsp; &nbsp; recovery
 
-+    v. &nbsp; &nbsp; to get back; to have something returned
++ v. &nbsp; &nbsp; to get back; to have something returned
 
 + syn. &nbsp; &nbsp; retrieve
 
@@ -194,9 +194,9 @@
 
 + adj. &nbsp; &nbsp; reported
 
-+    v. &nbsp; &nbsp; report
++ v. &nbsp; &nbsp; report
 
-+    n. &nbsp; &nbsp; report
++ n. &nbsp; &nbsp; report
 
 + adv. &nbsp; &nbsp; to know by report; unconfirmed; supposedly
 
@@ -210,9 +210,9 @@
 
 + adj. &nbsp; &nbsp; shifty
 
-+    v. &nbsp; &nbsp; shift
++ v. &nbsp; &nbsp; shift
 
-+    n. &nbsp; &nbsp; a change in position or direction
++ n. &nbsp; &nbsp; a change in position or direction
 
 + syn. &nbsp; &nbsp; switch
 
@@ -222,7 +222,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; susceptibleness
++ n. &nbsp; &nbsp; susceptibleness
 
 + adj. &nbsp; &nbsp; to be subject to influence; capable of being affected by a person or thing
 

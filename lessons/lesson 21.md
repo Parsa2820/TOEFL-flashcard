@@ -4,9 +4,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; decline
++ n. &nbsp; &nbsp; decline
 
-+    v. &nbsp; &nbsp; to move from good to bad, or from much to little; to refuse
++ v. &nbsp; &nbsp; to move from good to bad, or from much to little; to refuse
 
 + syn. &nbsp; &nbsp; decrease
 
@@ -16,9 +16,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; gathering
++ n. &nbsp; &nbsp; gathering
 
-+    v. &nbsp; &nbsp; to collect
++ v. &nbsp; &nbsp; to collect
 
 + syn. &nbsp; &nbsp; collect
 
@@ -28,9 +28,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; motion*
++ v. &nbsp; &nbsp; motion*
 
-+    n. &nbsp; &nbsp; the state of changing one’s position*to direct by moving
++ n. &nbsp; &nbsp; the state of changing one’s position*to direct by moving
 
 + syn. &nbsp; &nbsp; movement
 
@@ -40,7 +40,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; a sudden and intense release of something
++ n. &nbsp; &nbsp; a sudden and intense release of something
 
 + syn. &nbsp; &nbsp; eruption
 
@@ -62,9 +62,9 @@
 
 + adj. &nbsp; &nbsp; patterned
 
-+    v. &nbsp; &nbsp; pattern
++ v. &nbsp; &nbsp; pattern
 
-+    n. &nbsp; &nbsp; a regular, repeated arrangement or action
++ n. &nbsp; &nbsp; a regular, repeated arrangement or action
 
 + syn. &nbsp; &nbsp; habit
 
@@ -78,7 +78,7 @@
 
 + adj. &nbsp; &nbsp; phenomenal
 
-+    n. &nbsp; &nbsp; natural events or facts; strange or notable happenings
++ n. &nbsp; &nbsp; natural events or facts; strange or notable happenings
 
 + syn. &nbsp; &nbsp; events
 
@@ -88,7 +88,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; philanthropy
++ n. &nbsp; &nbsp; philanthropy
 
 + adj. &nbsp; &nbsp; a feeling of love for people, usually resulting in financial aid to worthy causes
 
@@ -114,7 +114,7 @@
 
 + adv. &nbsp; &nbsp; plentifully
 
-+    n. &nbsp; &nbsp; plenty
++ n. &nbsp; &nbsp; plenty
 
 + adj. &nbsp; &nbsp; more than sufficient
 
@@ -130,9 +130,9 @@
 
 + adj. &nbsp; &nbsp; reactionary
 
-+    v. &nbsp; &nbsp; react
++ v. &nbsp; &nbsp; react
 
-+    n. &nbsp; &nbsp; a reply; a change that occurs when substances are mixed
++ n. &nbsp; &nbsp; a reply; a change that occurs when substances are mixed
 
 + syn. &nbsp; &nbsp; response
 
@@ -146,7 +146,7 @@
 
 + adj. &nbsp; &nbsp; rhythmic
 
-+    n. &nbsp; &nbsp; a regular pattern, usually in music
++ n. &nbsp; &nbsp; a regular pattern, usually in music
 
 + syn. &nbsp; &nbsp; pulse
 
@@ -158,7 +158,7 @@
 
 + adv. &nbsp; &nbsp; scenically
 
-+    n. &nbsp; &nbsp; scene
++ n. &nbsp; &nbsp; scene
 
 + adj. &nbsp; &nbsp; concerning pleasant natural surroundings
 
@@ -172,7 +172,7 @@
 
 + adv. &nbsp; &nbsp; shallowly
 
-+    n. &nbsp; &nbsp; shallowness
++ n. &nbsp; &nbsp; shallowness
 
 + adj. &nbsp; &nbsp; not far from top to bottom
 
@@ -184,9 +184,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; shelter
++ v. &nbsp; &nbsp; shelter
 
-+    n. &nbsp; &nbsp; shelter
++ n. &nbsp; &nbsp; shelter
 
 + adj. &nbsp; &nbsp; protected from harmful elements; isolated from reality
 
@@ -198,7 +198,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; vanish
++ v. &nbsp; &nbsp; vanish
 
 + adj. &nbsp; &nbsp; going out of sight
 

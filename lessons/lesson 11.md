@@ -4,7 +4,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; something that makes life easier or more enjoyable
++ n. &nbsp; &nbsp; something that makes life easier or more enjoyable
 
 + syn. &nbsp; &nbsp; convenience
 
@@ -16,7 +16,7 @@
 
 + adj. &nbsp; &nbsp; dispersed
 
-+    v. &nbsp; &nbsp; to cause to move in many different directions
++ v. &nbsp; &nbsp; to cause to move in many different directions
 
 + syn. &nbsp; &nbsp; circulate
 
@@ -26,9 +26,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; where people live
++ n. &nbsp; &nbsp; where people live
 
-+    v. &nbsp; &nbsp; dwell
++ v. &nbsp; &nbsp; dwell
 
 + syn. &nbsp; &nbsp; house
 
@@ -40,7 +40,7 @@
 
 + adj. &nbsp; &nbsp; elemental
 
-+    n. &nbsp; &nbsp; a part of the whole
++ n. &nbsp; &nbsp; a part of the whole
 
 +  &nbsp; &nbsp; *environment
 
@@ -64,9 +64,9 @@
 
 + adj. &nbsp; &nbsp; eliminated
 
-+    n. &nbsp; &nbsp; elimination
++ n. &nbsp; &nbsp; elimination
 
-+    v. &nbsp; &nbsp; to remove, free oneself of something
++ v. &nbsp; &nbsp; to remove, free oneself of something
 
 + syn. &nbsp; &nbsp; delete
 
@@ -76,9 +76,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; emergence
++ n. &nbsp; &nbsp; emergence
 
-+    v. &nbsp; &nbsp; to come into view, or existence
++ v. &nbsp; &nbsp; to come into view, or existence
 
 + syn. &nbsp; &nbsp; appear
 
@@ -92,9 +92,9 @@
 
 + adj. &nbsp; &nbsp; emphatic
 
-+    n. &nbsp; &nbsp; emphasis
++ n. &nbsp; &nbsp; emphasis
 
-+    v. &nbsp; &nbsp; to show that something is especially important or exceptional
++ v. &nbsp; &nbsp; to show that something is especially important or exceptional
 
 + syn. &nbsp; &nbsp; highlight
 
@@ -106,7 +106,7 @@
 
 + adj. &nbsp; &nbsp; encircled
 
-+    v. &nbsp; &nbsp; to make a circle around
++ v. &nbsp; &nbsp; to make a circle around
 
 + syn. &nbsp; &nbsp; surround
 
@@ -130,9 +130,9 @@
 
 + adj. &nbsp; &nbsp; exaggerated
 
-+    n. &nbsp; &nbsp; exaggeration
++ n. &nbsp; &nbsp; exaggeration
 
-+    v. &nbsp; &nbsp; to make something more than what it is
++ v. &nbsp; &nbsp; to make something more than what it is
 
 + syn. &nbsp; &nbsp; overstate
 
@@ -144,7 +144,7 @@
 
 + adv. &nbsp; &nbsp; integrally
 
-+    n. &nbsp; &nbsp; integrallity
++ n. &nbsp; &nbsp; integrallity
 
 + adj. &nbsp; &nbsp; to be an essential or basic part of something
 
@@ -156,11 +156,11 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; justification
++ n. &nbsp; &nbsp; justification
 
 + adj. &nbsp; &nbsp; justifiably
 
-+    v. &nbsp; &nbsp; to show to be right or reasonable; to support
++ v. &nbsp; &nbsp; to show to be right or reasonable; to support
 
 + syn. &nbsp; &nbsp; defend
 
@@ -172,9 +172,9 @@
 
 + adj. &nbsp; &nbsp; mentioned
 
-+    n. &nbsp; &nbsp; mention
++ n. &nbsp; &nbsp; mention
 
-+    v. &nbsp; &nbsp; to say; relate in written form
++ v. &nbsp; &nbsp; to say; relate in written form
 
 + syn. &nbsp; &nbsp; remark
 
@@ -184,9 +184,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; mortification
++ n. &nbsp; &nbsp; mortification
 
-+    v. &nbsp; &nbsp; to embarrass
++ v. &nbsp; &nbsp; to embarrass
 
 + syn. &nbsp; &nbsp; humiliate
 
@@ -196,7 +196,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; prevalence
++ n. &nbsp; &nbsp; prevalence
 
 + adj. &nbsp; &nbsp; existing widely or commonly
 
@@ -208,9 +208,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; release
++ n. &nbsp; &nbsp; release
 
-+    v. &nbsp; &nbsp; to allow to come out; to give freedom
++ v. &nbsp; &nbsp; to allow to come out; to give freedom
 
 + syn. &nbsp; &nbsp; free
 

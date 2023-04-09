@@ -4,7 +4,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; antique
++ n. &nbsp; &nbsp; antique
 
 + adj. &nbsp; &nbsp; too old to be presently useful; outmoded
 
@@ -18,9 +18,9 @@
 
 + adv. &nbsp; &nbsp; coherently
 
-+    v. &nbsp; &nbsp; cohere
++ v. &nbsp; &nbsp; cohere
 
-+    n. &nbsp; &nbsp; cohesion*
++ n. &nbsp; &nbsp; cohesion*
 
 + adj. &nbsp; &nbsp; well reasoned; ideas that are clearly presented
 
@@ -34,9 +34,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; evolution
++ n. &nbsp; &nbsp; evolution
 
-+    v. &nbsp; &nbsp; to grow; to go through a period of change
++ v. &nbsp; &nbsp; to grow; to go through a period of change
 
 + syn. &nbsp; &nbsp; develop
 
@@ -48,9 +48,9 @@
 
 + adj. &nbsp; &nbsp; fabricated
 
-+    n. &nbsp; &nbsp; fabrication
++ n. &nbsp; &nbsp; fabrication
 
-+    v. &nbsp; &nbsp; to make up, usually with an intent to fool or trick; to lie
++ v. &nbsp; &nbsp; to make up, usually with an intent to fool or trick; to lie
 
 + syn. &nbsp; &nbsp; invent
 
@@ -74,9 +74,9 @@
 
 + adj. &nbsp; &nbsp; investigative
 
-+    v. &nbsp; &nbsp; investigate
++ v. &nbsp; &nbsp; investigate
 
-+    n. &nbsp; &nbsp; a careful examination in order to determine facts
++ n. &nbsp; &nbsp; a careful examination in order to determine facts
 
 + syn. &nbsp; &nbsp; probe
 
@@ -88,9 +88,9 @@
 
 + adj. &nbsp; &nbsp; normal
 
-+    v. &nbsp; &nbsp; normalize
++ v. &nbsp; &nbsp; normalize
 
-+    n. &nbsp; &nbsp; norm
++ n. &nbsp; &nbsp; norm
 
 + adv. &nbsp; &nbsp; commonly; usually
 
@@ -102,7 +102,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; an idea, belief, or opinion
++ n. &nbsp; &nbsp; an idea, belief, or opinion
 
 + syn. &nbsp; &nbsp; concept
 
@@ -124,9 +124,9 @@
 
 + adj. &nbsp; &nbsp; nurturing
 
-+    n. &nbsp; &nbsp; nurture
++ n. &nbsp; &nbsp; nurture
 
-+    v. &nbsp; &nbsp; to support and encourage the development of something
++ v. &nbsp; &nbsp; to support and encourage the development of something
 
 + syn. &nbsp; &nbsp; cultivate
 
@@ -138,9 +138,9 @@
 
 + adj. &nbsp; &nbsp; opposed
 
-+    v. &nbsp; &nbsp; oppose
++ v. &nbsp; &nbsp; oppose
 
-+    n. &nbsp; &nbsp; the state of acting against; not being in agreement
++ n. &nbsp; &nbsp; the state of acting against; not being in agreement
 
 + syn. &nbsp; &nbsp; resistance
 
@@ -152,9 +152,9 @@
 
 + adj. &nbsp; &nbsp; related
 
-+    n. &nbsp; &nbsp; relationship
++ n. &nbsp; &nbsp; relationship
 
-+    v. &nbsp; &nbsp; to tell; to show a connection between two things
++ v. &nbsp; &nbsp; to tell; to show a connection between two things
 
 + syn. &nbsp; &nbsp; communicate
 
@@ -166,9 +166,9 @@
 
 + adj. &nbsp; &nbsp; suspected
 
-+    n. &nbsp; &nbsp; suspect
++ n. &nbsp; &nbsp; suspect
 
-+    v. &nbsp; &nbsp; to think that something is true, but having no proof
++ v. &nbsp; &nbsp; to think that something is true, but having no proof
 
 + syn. &nbsp; &nbsp; speculate
 
@@ -178,9 +178,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; transformer
++ n. &nbsp; &nbsp; transformer
 
-+    v. &nbsp; &nbsp; to change in form or appearance
++ v. &nbsp; &nbsp; to change in form or appearance
 
 + syn. &nbsp; &nbsp; alter
 
@@ -192,7 +192,7 @@
 
 + adj. &nbsp; &nbsp; triggered
 
-+    v. &nbsp; &nbsp; to initiate, cause or start
++ v. &nbsp; &nbsp; to initiate, cause or start
 
 + syn. &nbsp; &nbsp; generate
 
@@ -216,9 +216,9 @@
 
 + adj. &nbsp; &nbsp; being of many different types
 
-+    v. &nbsp; &nbsp; vary
++ v. &nbsp; &nbsp; vary
 
-+    n. &nbsp; &nbsp; variability
++ n. &nbsp; &nbsp; variability
 
 + syn. &nbsp; &nbsp; diverse
 

@@ -6,7 +6,7 @@
 
 + adj. &nbsp; &nbsp; brief
 
-+    n. &nbsp; &nbsp; brevity
++ n. &nbsp; &nbsp; brevity
 
 + adv. &nbsp; &nbsp; short, usually in time
 
@@ -20,9 +20,9 @@
 
 + adj. &nbsp; &nbsp; circulatory
 
-+    n. &nbsp; &nbsp; circulation
++ n. &nbsp; &nbsp; circulation
 
-+    v. &nbsp; &nbsp; to cause to move along a fixed path; move freely
++ v. &nbsp; &nbsp; to cause to move along a fixed path; move freely
 
 + syn. &nbsp; &nbsp; distribute
 
@@ -34,9 +34,9 @@
 
 + adj. &nbsp; &nbsp; consistent
 
-+    v. &nbsp; &nbsp; consist
++ v. &nbsp; &nbsp; consist
 
-+    n. &nbsp; &nbsp; consistency
++ n. &nbsp; &nbsp; consistency
 
 + adv. &nbsp; &nbsp; without changing; keeping the same principles, ideas, or quality
 
@@ -48,9 +48,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; exhibitor
++ n. &nbsp; &nbsp; exhibitor
 
-+    v. &nbsp; &nbsp; to show or demonstrate
++ v. &nbsp; &nbsp; to show or demonstrate
 
 + syn. &nbsp; &nbsp; display
 
@@ -60,9 +60,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; founder
++ n. &nbsp; &nbsp; founder
 
-+    v. &nbsp; &nbsp; to establish; start up; *a philanthropic organization
++ v. &nbsp; &nbsp; to establish; start up; *a philanthropic organization
 
 + syn. &nbsp; &nbsp; establish
 
@@ -74,7 +74,7 @@
 
 + adj. &nbsp; &nbsp; improper
 
-+    n. &nbsp; &nbsp; impropriety
++ n. &nbsp; &nbsp; impropriety
 
 + adv. &nbsp; &nbsp; not following established rules; not desirable
 
@@ -88,7 +88,7 @@
 
 + adj. &nbsp; &nbsp; impulsive
 
-+    n. &nbsp; &nbsp; impulsiveness
++ n. &nbsp; &nbsp; impulsiveness
 
 + adv. &nbsp; &nbsp; acting without thinking
 
@@ -102,7 +102,7 @@
 
 + adj. &nbsp; &nbsp; almost never
 
-+    n. &nbsp; &nbsp; infrequency
++ n. &nbsp; &nbsp; infrequency
 
 + syn. &nbsp; &nbsp; rarely
 
@@ -112,9 +112,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; isolate
++ v. &nbsp; &nbsp; isolate
 
-+    n. &nbsp; &nbsp; isolation
++ n. &nbsp; &nbsp; isolation
 
 + adj. &nbsp; &nbsp; to keep separated from others
 
@@ -140,7 +140,7 @@
 
 + adj. &nbsp; &nbsp; profound
 
-+    n. &nbsp; &nbsp; profundity
++ n. &nbsp; &nbsp; profundity
 
 + adv. &nbsp; &nbsp; in a deep way; showing deep knowledge of a subject
 
@@ -154,9 +154,9 @@
 
 + adj. &nbsp; &nbsp; sharp
 
-+    v. &nbsp; &nbsp; sharpen
++ v. &nbsp; &nbsp; sharpen
 
-+    n. &nbsp; &nbsp; sharpness
++ n. &nbsp; &nbsp; sharpness
 
 + adv. &nbsp; &nbsp; showing sensitivity or quick thinking; showing a quick change in direction
 
@@ -168,9 +168,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; situation*
++ n. &nbsp; &nbsp; situation*
 
-+    v. &nbsp; &nbsp; situate
++ v. &nbsp; &nbsp; situate
 
 + adj. &nbsp; &nbsp; being found in a certain place*a current condition
 
@@ -204,7 +204,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; upstandingness
++ n. &nbsp; &nbsp; upstandingness
 
 + adj. &nbsp; &nbsp; marked by integrity; good, honest
 

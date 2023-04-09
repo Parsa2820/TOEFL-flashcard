@@ -4,9 +4,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; adherence
++ n. &nbsp; &nbsp; adherence
 
-+    v. &nbsp; &nbsp; to stick to or follow precisely
++ v. &nbsp; &nbsp; to stick to or follow precisely
 
 + syn. &nbsp; &nbsp; comply
 
@@ -16,7 +16,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; duration*
++ n. &nbsp; &nbsp; duration*
 
 + adj. &nbsp; &nbsp; something that lasts a long time*time during which something lasts
 
@@ -28,7 +28,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; to promote growth or development
++ v. &nbsp; &nbsp; to promote growth or development
 
 +  &nbsp; &nbsp; syn.
 
@@ -42,9 +42,9 @@
 
 + adj. &nbsp; &nbsp; gainful
 
-+    n. &nbsp; &nbsp; gain
++ n. &nbsp; &nbsp; gain
 
-+    v. &nbsp; &nbsp; to obtain something needed or useful; to increase to the amount of something
++ v. &nbsp; &nbsp; to obtain something needed or useful; to increase to the amount of something
 
 + syn. &nbsp; &nbsp; attain
 
@@ -58,9 +58,9 @@
 
 + adj. &nbsp; &nbsp; halting
 
-+    n. &nbsp; &nbsp; halt
++ n. &nbsp; &nbsp; halt
 
-+    v. &nbsp; &nbsp; to stop or discontinue
++ v. &nbsp; &nbsp; to stop or discontinue
 
 + syn. &nbsp; &nbsp; stop
 
@@ -70,9 +70,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; handling
++ n. &nbsp; &nbsp; handling
 
-+    v. &nbsp; &nbsp; to deal with or control
++ v. &nbsp; &nbsp; to deal with or control
 
 + syn. &nbsp; &nbsp; manage
 
@@ -82,7 +82,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; to give protection; to not express a desire or opinion, usually bad
++ v. &nbsp; &nbsp; to give protection; to not express a desire or opinion, usually bad
 
 + syn. &nbsp; &nbsp; shelter
 
@@ -94,9 +94,9 @@
 
 + adv. &nbsp; &nbsp; harmfully
 
-+    v. &nbsp; &nbsp; harm
++ v. &nbsp; &nbsp; harm
 
-+    n. &nbsp; &nbsp; harm
++ n. &nbsp; &nbsp; harm
 
 + adj. &nbsp; &nbsp; something that causes pain or damage
 
@@ -110,7 +110,7 @@
 
 + adv. &nbsp; &nbsp; insignificantly
 
-+    n. &nbsp; &nbsp; insignificance
++ n. &nbsp; &nbsp; insignificance
 
 + adj. &nbsp; &nbsp; not important; of little value
 
@@ -124,7 +124,7 @@
 
 + adv. &nbsp; &nbsp; mysteriously
 
-+    n. &nbsp; &nbsp; mysteriousness
++ n. &nbsp; &nbsp; mysteriousness
 
 + adj. &nbsp; &nbsp; not easily understood or figured out
 
@@ -138,7 +138,7 @@
 
 + adv. &nbsp; &nbsp; perilously
 
-+    n. &nbsp; &nbsp; peril
++ n. &nbsp; &nbsp; peril
 
 + adj. &nbsp; &nbsp; threatening or risky; harmful
 
@@ -150,9 +150,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; promotion
++ n. &nbsp; &nbsp; promotion
 
-+    v. &nbsp; &nbsp; to encourage or advertise; to elevate in rank or grade
++ v. &nbsp; &nbsp; to encourage or advertise; to elevate in rank or grade
 
 + syn. &nbsp; &nbsp; boost
 
@@ -162,7 +162,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; redundancy
++ n. &nbsp; &nbsp; redundancy
 
 + adv. &nbsp; &nbsp; redundantly
 
@@ -176,9 +176,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; rejection
++ n. &nbsp; &nbsp; rejection
 
-+    v. &nbsp; &nbsp; to refuse
++ v. &nbsp; &nbsp; to refuse
 
 + syn. &nbsp; &nbsp; refuse
 
@@ -200,7 +200,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; specific qualities that distinguish one from another
++ n. &nbsp; &nbsp; specific qualities that distinguish one from another
 
 + syn. &nbsp; &nbsp; characteristic
 
@@ -210,7 +210,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; to make evident or emphasize
++ v. &nbsp; &nbsp; to make evident or emphasize
 
 + syn. &nbsp; &nbsp; highlight
 

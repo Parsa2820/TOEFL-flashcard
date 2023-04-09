@@ -6,9 +6,9 @@
 
 + adj. &nbsp; &nbsp; accentuated
 
-+    n. &nbsp; &nbsp; accentuation
++ n. &nbsp; &nbsp; accentuation
 
-+    v. &nbsp; &nbsp; to highlight; to give more importance to
++ v. &nbsp; &nbsp; to highlight; to give more importance to
 
 + syn. &nbsp; &nbsp; emphasize
 
@@ -20,7 +20,7 @@
 
 + adj. &nbsp; &nbsp; devisable
 
-+    v. &nbsp; &nbsp; to brainstorm; to come up with an idea
++ v. &nbsp; &nbsp; to brainstorm; to come up with an idea
 
 + syn. &nbsp; &nbsp; formulate
 
@@ -32,9 +32,9 @@
 
 + adj. &nbsp; &nbsp; disguised
 
-+    n. &nbsp; &nbsp; disguise
++ n. &nbsp; &nbsp; disguise
 
-+    v. &nbsp; &nbsp; to hide the usual appearance of something
++ v. &nbsp; &nbsp; to hide the usual appearance of something
 
 + syn. &nbsp; &nbsp; conceal
 
@@ -46,9 +46,9 @@
 
 + adj. &nbsp; &nbsp; ignitable
 
-+    n. &nbsp; &nbsp; ignition
++ n. &nbsp; &nbsp; ignition
 
-+    v. &nbsp; &nbsp; to set on fire; to give energy or life to something
++ v. &nbsp; &nbsp; to set on fire; to give energy or life to something
 
 + syn. &nbsp; &nbsp; kindle
 
@@ -58,7 +58,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; indifference
++ n. &nbsp; &nbsp; indifference
 
 + adj. &nbsp; &nbsp; being uninterested or not caring about something
 
@@ -72,9 +72,9 @@
 
 + adj. &nbsp; &nbsp; initiated
 
-+    n. &nbsp; &nbsp; initiative
++ n. &nbsp; &nbsp; initiative
 
-+    v. &nbsp; &nbsp; to begin; to establish; to take decisive action without help
++ v. &nbsp; &nbsp; to begin; to establish; to take decisive action without help
 
 + syn. &nbsp; &nbsp; launch
 
@@ -84,7 +84,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; innovation
++ n. &nbsp; &nbsp; innovation
 
 + adj. &nbsp; &nbsp; something newly introduced; creative
 
@@ -98,9 +98,9 @@
 
 + adj. &nbsp; &nbsp; narrative
 
-+    n. &nbsp; &nbsp; narrator
++ n. &nbsp; &nbsp; narrator
 
-+    v. &nbsp; &nbsp; to tell a story; relate
++ v. &nbsp; &nbsp; to tell a story; relate
 
 + syn. &nbsp; &nbsp; relate
 
@@ -120,7 +120,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; obsolescence
++ n. &nbsp; &nbsp; obsolescence
 
 + adv. &nbsp; &nbsp; being old fashioned; no longer in general use
 
@@ -134,9 +134,9 @@
 
 + adj. &nbsp; &nbsp; omitted
 
-+    n. &nbsp; &nbsp; omission
++ n. &nbsp; &nbsp; omission
 
-+    v. &nbsp; &nbsp; to leave out; not include
++ v. &nbsp; &nbsp; to leave out; not include
 
 + syn. &nbsp; &nbsp; neglect
 
@@ -158,7 +158,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; to defeat; fight with success; to take control of an individual
++ v. &nbsp; &nbsp; to defeat; fight with success; to take control of an individual
 
 + syn. &nbsp; &nbsp; conquer
 
@@ -172,7 +172,7 @@
 
 + adj. &nbsp; &nbsp; partial
 
-+    n. &nbsp; &nbsp; part
++ n. &nbsp; &nbsp; part
 
 + syn. &nbsp; &nbsp; somewhat
 
@@ -184,9 +184,9 @@
 
 + adj. &nbsp; &nbsp; passable
 
-+    n. &nbsp; &nbsp; passage
++ n. &nbsp; &nbsp; passage
 
-+    v. &nbsp; &nbsp; to accept formally by vote
++ v. &nbsp; &nbsp; to accept formally by vote
 
 + syn. &nbsp; &nbsp; approve
 
@@ -196,9 +196,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; portrayal
++ n. &nbsp; &nbsp; portrayal
 
-+    v. &nbsp; &nbsp; to represent; to act
++ v. &nbsp; &nbsp; to represent; to act
 
 + syn. &nbsp; &nbsp; depict
 
@@ -210,7 +210,7 @@
 
 + adj. &nbsp; &nbsp; streamlined
 
-+    v. &nbsp; &nbsp; to update; to make more efficient or concise
++ v. &nbsp; &nbsp; to update; to make more efficient or concise
 
 + syn. &nbsp; &nbsp; simplify
 

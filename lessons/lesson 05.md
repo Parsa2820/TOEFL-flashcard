@@ -6,9 +6,9 @@
 
 + adj. &nbsp; &nbsp; baffling
 
-+    n. &nbsp; &nbsp; bafflement
++ n. &nbsp; &nbsp; bafflement
 
-+    v. &nbsp; &nbsp; to confuse to a point at which no progress can be made
++ v. &nbsp; &nbsp; to confuse to a point at which no progress can be made
 
 + syn. &nbsp; &nbsp; puzzle
 
@@ -22,7 +22,7 @@
 
 + adj. &nbsp; &nbsp; bearable
 
-+    v. &nbsp; &nbsp; to produce, to carry; to show; to endure
++ v. &nbsp; &nbsp; to produce, to carry; to show; to endure
 
 + syn. &nbsp; &nbsp; yield
 
@@ -34,9 +34,9 @@
 
 + adj. &nbsp; &nbsp; blurred
 
-+    n. &nbsp; &nbsp; blur
++ n. &nbsp; &nbsp; blur
 
-+    v. &nbsp; &nbsp; to make something difficult to see
++ v. &nbsp; &nbsp; to make something difficult to see
 
 + syn. &nbsp; &nbsp; cloud
 
@@ -48,7 +48,7 @@
 
 + adv. &nbsp; &nbsp; brilliantly
 
-+    n. &nbsp; &nbsp; brilliance
++ n. &nbsp; &nbsp; brilliance
 
 + adj. &nbsp; &nbsp; intensely bright or colorful; intelligent
 
@@ -64,9 +64,9 @@
 
 + adv. &nbsp; &nbsp; cautiously
 
-+    n. &nbsp; &nbsp; caution
++ n. &nbsp; &nbsp; caution
 
-+    v. &nbsp; &nbsp; to alert someone of danger, warn someone to take care or pay attention to something
++ v. &nbsp; &nbsp; to alert someone of danger, warn someone to take care or pay attention to something
 
 + syn. &nbsp; &nbsp; warn
 
@@ -88,11 +88,11 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; enhancement
++ n. &nbsp; &nbsp; enhancement
 
 + adj. &nbsp; &nbsp; enhanced
 
-+    v. &nbsp; &nbsp; to increase in a positive way, such as in value, power, or beauty
++ v. &nbsp; &nbsp; to increase in a positive way, such as in value, power, or beauty
 
 + syn. &nbsp; &nbsp; strengthen
 
@@ -104,7 +104,7 @@
 
 + adv. &nbsp; &nbsp; facilitative
 
-+    v. &nbsp; &nbsp; to make easier; to ease the progress of
++ v. &nbsp; &nbsp; to make easier; to ease the progress of
 
 + syn. &nbsp; &nbsp; assist
 
@@ -130,7 +130,7 @@
 
 + prep. ph. &nbsp; &nbsp; in addition to, alongside
 
-+      syn. &nbsp; &nbsp; along with
++ syn. &nbsp; &nbsp; along with
 
 </details>
 
@@ -142,9 +142,9 @@
 
 + adv. &nbsp; &nbsp; intriguingly
 
-+    n. &nbsp; &nbsp; intrigue
++ n. &nbsp; &nbsp; intrigue
 
-+    v. &nbsp; &nbsp; to interest greatly
++ v. &nbsp; &nbsp; to interest greatly
 
 + syn. &nbsp; &nbsp; fascinate
 
@@ -154,13 +154,13 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; obstruction
++ n. &nbsp; &nbsp; obstruction
 
 + adj. &nbsp; &nbsp; obstructive
 
 + adv. &nbsp; &nbsp; obstructively
 
-+    v. &nbsp; &nbsp; to prevent movement, progress, or success
++ v. &nbsp; &nbsp; to prevent movement, progress, or success
 
 + syn. &nbsp; &nbsp; block
 
@@ -174,9 +174,9 @@
 
 + adj. &nbsp; &nbsp; persuasive
 
-+    n. &nbsp; &nbsp; persuasion
++ n. &nbsp; &nbsp; persuasion
 
-+    v. &nbsp; &nbsp; to change a belief or behavior by argument or reason
++ v. &nbsp; &nbsp; to change a belief or behavior by argument or reason
 
 + syn. &nbsp; &nbsp; convince
 
@@ -188,9 +188,9 @@
 
 + adv. &nbsp; &nbsp; recompensable
 
-+    v. &nbsp; &nbsp; recompense
++ v. &nbsp; &nbsp; recompense
 
-+    n. &nbsp; &nbsp; a repayment or reward for a deed
++ n. &nbsp; &nbsp; a repayment or reward for a deed
 
 + syn. &nbsp; &nbsp; compensation
 
@@ -200,7 +200,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; to throw off naturally; to give out
++ v. &nbsp; &nbsp; to throw off naturally; to give out
 
 + syn. &nbsp; &nbsp; discard
 
@@ -212,7 +212,7 @@
 
 + adv. &nbsp; &nbsp; uniquely
 
-+    n. &nbsp; &nbsp; uniqueness
++ n. &nbsp; &nbsp; uniqueness
 
 + adj. &nbsp; &nbsp; to be the only one of a kind; special
 

@@ -4,11 +4,11 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; attribute
++ v. &nbsp; &nbsp; attribute
 
 + adj. &nbsp; &nbsp; attributable
 
-+    n. &nbsp; &nbsp; Something that is thought to belong to a person or thing; a quality by which something is identified
++ n. &nbsp; &nbsp; Something that is thought to belong to a person or thing; a quality by which something is identified
 
 + syn. &nbsp; &nbsp; characteristic
 
@@ -20,7 +20,7 @@
 
 + adv. &nbsp; &nbsp; brashly
 
-+    n. &nbsp; &nbsp; brashness
++ n. &nbsp; &nbsp; brashness
 
 + adj. &nbsp; &nbsp; confident or aggressive; lacking regard for consequences
 
@@ -32,9 +32,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; clarification
++ n. &nbsp; &nbsp; clarification
 
-+    v. &nbsp; &nbsp; to make more easily understood; to make clear
++ v. &nbsp; &nbsp; to make more easily understood; to make clear
 
 + syn. &nbsp; &nbsp; explain
 
@@ -44,9 +44,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; concealment
++ n. &nbsp; &nbsp; concealment
 
-+    v. &nbsp; &nbsp; to prevent from being seen or discovered
++ v. &nbsp; &nbsp; to prevent from being seen or discovered
 
 + syn. &nbsp; &nbsp; hide
 
@@ -58,9 +58,9 @@
 
 + adj. &nbsp; &nbsp; confirmed
 
-+    n. &nbsp; &nbsp; confirmation
++ n. &nbsp; &nbsp; confirmation
 
-+    v. &nbsp; &nbsp; to make certain; give support
++ v. &nbsp; &nbsp; to make certain; give support
 
 + syn. &nbsp; &nbsp; prove
 
@@ -72,7 +72,7 @@
 
 + adv. &nbsp; &nbsp; conveniently
 
-+    n. &nbsp; &nbsp; convenience
++ n. &nbsp; &nbsp; convenience
 
 + adj. &nbsp; &nbsp; easy to reach; near; suitable to one’s needs
 
@@ -84,7 +84,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; core
++ n. &nbsp; &nbsp; core
 
 + adj. &nbsp; &nbsp; the central or most important part
 
@@ -96,9 +96,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; critique
++ v. &nbsp; &nbsp; critique
 
-+    n. &nbsp; &nbsp; critic
++ n. &nbsp; &nbsp; critic
 
 + adv. &nbsp; &nbsp; critically
 
@@ -112,7 +112,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; a difference between things that should be similar or equal
++ n. &nbsp; &nbsp; a difference between things that should be similar or equal
 
 + syn. &nbsp; &nbsp; inconsistency
 
@@ -124,9 +124,9 @@
 
 + adj. &nbsp; &nbsp; distorted
 
-+    n. &nbsp; &nbsp; distortion
++ n. &nbsp; &nbsp; distortion
 
-+    v. &nbsp; &nbsp; to change from the original shape or condition, usually in an unnatural way
++ v. &nbsp; &nbsp; to change from the original shape or condition, usually in an unnatural way
 
 + syn. &nbsp; &nbsp; deform
 
@@ -138,9 +138,9 @@
 
 + adv. &nbsp; &nbsp; diversely
 
-+    n. &nbsp; &nbsp; diversity
++ n. &nbsp; &nbsp; diversity
 
-+    v. &nbsp; &nbsp; diversify
++ v. &nbsp; &nbsp; diversify
 
 + adj. &nbsp; &nbsp; various; distinct from others
 
@@ -164,9 +164,9 @@
 
 + adv. &nbsp; &nbsp; prosperously
 
-+    v. &nbsp; &nbsp; prosper
++ v. &nbsp; &nbsp; prosper
 
-+    n. &nbsp; &nbsp; prosperity
++ n. &nbsp; &nbsp; prosperity
 
 + adj. &nbsp; &nbsp; successful, wealthy
 
@@ -182,7 +182,7 @@
 
 + adv. &nbsp; &nbsp; done for a special reason
 
-+    n. &nbsp; &nbsp; purpose
++ n. &nbsp; &nbsp; purpose
 
 + syn. &nbsp; &nbsp; deliberately
 
@@ -196,9 +196,9 @@
 
 + adj. &nbsp; &nbsp; revealing
 
-+    n. &nbsp; &nbsp; revelation
++ n. &nbsp; &nbsp; revelation
 
-+    v. &nbsp; &nbsp; to uncover; to expose
++ v. &nbsp; &nbsp; to uncover; to expose
 
 + syn. &nbsp; &nbsp; disclose
 
@@ -210,7 +210,7 @@
 
 + adj. &nbsp; &nbsp; scarce
 
-+    n. &nbsp; &nbsp; scarcity
++ n. &nbsp; &nbsp; scarcity
 
 + adv. &nbsp; &nbsp; almost not
 
@@ -224,9 +224,9 @@
 
 + adj. &nbsp; &nbsp; theoretical
 
-+    n. &nbsp; &nbsp; theory
++ n. &nbsp; &nbsp; theory
 
-+    v. &nbsp; &nbsp; theorize
++ v. &nbsp; &nbsp; theorize
 
 + adv. &nbsp; &nbsp; according to a reasoned, but not proven, point of view
 

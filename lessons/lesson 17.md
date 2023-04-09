@@ -4,9 +4,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; agitator
++ n. &nbsp; &nbsp; agitator
 
-+    v. &nbsp; &nbsp; to shake or move; to cause worry
++ v. &nbsp; &nbsp; to shake or move; to cause worry
 
 + syn. &nbsp; &nbsp; disturb
 
@@ -18,9 +18,9 @@
 
 + adj. &nbsp; &nbsp; compliant
 
-+    n. &nbsp; &nbsp; compliance
++ n. &nbsp; &nbsp; compliance
 
-+    v. &nbsp; &nbsp; to agree to follow a request or command; to adhere to specific standards
++ v. &nbsp; &nbsp; to agree to follow a request or command; to adhere to specific standards
 
 + syn. &nbsp; &nbsp; acquiesce
 
@@ -30,13 +30,13 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; confide
++ v. &nbsp; &nbsp; confide
 
 + adj. &nbsp; &nbsp; to be said or written in secret
 
 + adv. &nbsp; &nbsp; confidentially
 
-+    n. &nbsp; &nbsp; confidant
++ n. &nbsp; &nbsp; confidant
 
 + syn. &nbsp; &nbsp; secret
 
@@ -48,7 +48,7 @@
 
 + adj. &nbsp; &nbsp; to be satisfied; very happy
 
-+    n. &nbsp; &nbsp; delight
++ n. &nbsp; &nbsp; delight
 
 + syn. &nbsp; &nbsp; elated
 
@@ -72,9 +72,9 @@
 
 + adj. &nbsp; &nbsp; proven with written evidence
 
-+    v. &nbsp; &nbsp; document
++ v. &nbsp; &nbsp; document
 
-+    n. &nbsp; &nbsp; documentation
++ n. &nbsp; &nbsp; documentation
 
 + syn. &nbsp; &nbsp; proven
 
@@ -84,7 +84,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; to call up or produce memories or feelings; to cause to remember
++ v. &nbsp; &nbsp; to call up or produce memories or feelings; to cause to remember
 
 + syn. &nbsp; &nbsp; remind
 
@@ -106,7 +106,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; impartiality
++ n. &nbsp; &nbsp; impartiality
 
 + adj. &nbsp; &nbsp; showing no favoritism; being fair or just
 
@@ -132,7 +132,7 @@
 
 + adj. &nbsp; &nbsp; instant
 
-+    n. &nbsp; &nbsp; instant
++ n. &nbsp; &nbsp; instant
 
 + adv. &nbsp; &nbsp; happening immediately; in a short period of time
 
@@ -146,7 +146,7 @@
 
 + adj. &nbsp; &nbsp; intentional
 
-+    n. &nbsp; &nbsp; intent
++ n. &nbsp; &nbsp; intent
 
 + adv. &nbsp; &nbsp; with definite purpose and planning
 
@@ -170,9 +170,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; inundation
++ n. &nbsp; &nbsp; inundation
 
-+    v. &nbsp; &nbsp; to flood
++ v. &nbsp; &nbsp; to flood
 
 + syn. &nbsp; &nbsp; overwhelm
 
@@ -182,7 +182,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; an established attitude or mood
++ n. &nbsp; &nbsp; an established attitude or mood
 
 + syn. &nbsp; &nbsp; mentality
 
@@ -206,9 +206,9 @@
 
 + adj. &nbsp; &nbsp; presumable
 
-+    v. &nbsp; &nbsp; presume
++ v. &nbsp; &nbsp; presume
 
-+    n. &nbsp; &nbsp; presumption
++ n. &nbsp; &nbsp; presumption
 
 + adv. &nbsp; &nbsp; reported, but not confirmed
 

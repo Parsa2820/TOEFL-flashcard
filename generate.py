@@ -35,7 +35,7 @@ for lesson_html in lessons_html:
             for detail_html in details_html.find_all('tr'):
                 key = detail_html.find_next('td')
                 value = key.find_next('td')
-                word.details[key.text] = value.text
+                word.details[key.text.strip()] = value.text
             lesson.words.append(word)
     lessons.append(lesson)
 

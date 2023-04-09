@@ -4,7 +4,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; analogy
++ n. &nbsp; &nbsp; analogy
 
 + adj. &nbsp; &nbsp; alike in some way
 
@@ -18,9 +18,9 @@
 
 + adj. &nbsp; &nbsp; approximate
 
-+    v. &nbsp; &nbsp; approximate
++ v. &nbsp; &nbsp; approximate
 
-+    n. &nbsp; &nbsp; approximation
++ n. &nbsp; &nbsp; approximation
 
 + adv. &nbsp; &nbsp; almost correct; not exact
 
@@ -36,7 +36,7 @@
 
 + adj. &nbsp; &nbsp; compelling
 
-+    v. &nbsp; &nbsp; to make something happen by necessity or force
++ v. &nbsp; &nbsp; to make something happen by necessity or force
 
 + syn. &nbsp; &nbsp; obliged
 
@@ -46,9 +46,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; compilation
++ n. &nbsp; &nbsp; compilation
 
-+    v. &nbsp; &nbsp; to collect
++ v. &nbsp; &nbsp; to collect
 
 + syn. &nbsp; &nbsp; assemble
 
@@ -72,9 +72,9 @@
 
 + adv. &nbsp; &nbsp; intrusively
 
-+    v. &nbsp; &nbsp; intrude
++ v. &nbsp; &nbsp; intrude
 
-+    n. &nbsp; &nbsp; intruder
++ n. &nbsp; &nbsp; intruder
 
 + adj. &nbsp; &nbsp; the state of being inside when not desired to be there by others
 
@@ -110,9 +110,9 @@
 
 + adv. &nbsp; &nbsp; prophetically
 
-+    v. &nbsp; &nbsp; prophesy
++ v. &nbsp; &nbsp; prophesy
 
-+    n. &nbsp; &nbsp; prophet
++ n. &nbsp; &nbsp; prophet
 
 + adj. &nbsp; &nbsp; correctly telling about future events
 
@@ -128,7 +128,7 @@
 
 + adj. &nbsp; &nbsp; proportionate
 
-+    n. &nbsp; &nbsp; the relationship of size or importance when compared to another object or person
++ n. &nbsp; &nbsp; the relationship of size or importance when compared to another object or person
 
 + syn. &nbsp; &nbsp; dimensions
 
@@ -140,9 +140,9 @@
 
 + adj. &nbsp; &nbsp; ready
 
-+    v. &nbsp; &nbsp; ready
++ v. &nbsp; &nbsp; ready
 
-+    n. &nbsp; &nbsp; readiness
++ n. &nbsp; &nbsp; readiness
 
 + adv. &nbsp; &nbsp; willingly; easily
 
@@ -156,9 +156,9 @@
 
 + adj. &nbsp; &nbsp; reliant
 
-+    v. &nbsp; &nbsp; rely
++ v. &nbsp; &nbsp; rely
 
-+    n. &nbsp; &nbsp; reliance
++ n. &nbsp; &nbsp; reliance
 
 + adv. &nbsp; &nbsp; in a trusted way
 
@@ -172,7 +172,7 @@
 
 + adj. &nbsp; &nbsp; unwillingly
 
-+    n. &nbsp; &nbsp; reluctance
++ n. &nbsp; &nbsp; reluctance
 
 + syn. &nbsp; &nbsp; hesitatingly
 
@@ -184,7 +184,7 @@
 
 + adj. &nbsp; &nbsp; renowned
 
-+    n. &nbsp; &nbsp; fame
++ n. &nbsp; &nbsp; fame
 
 + syn. &nbsp; &nbsp; prominence
 
@@ -194,11 +194,11 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; revival
++ n. &nbsp; &nbsp; revival
 
 + adj. &nbsp; &nbsp; revived
 
-+    v. &nbsp; &nbsp; to restore to life or bring back into memory
++ v. &nbsp; &nbsp; to restore to life or bring back into memory
 
 + syn. &nbsp; &nbsp; renew
 
@@ -212,9 +212,9 @@
 
 + adj. &nbsp; &nbsp; triumphal
 
-+    v. &nbsp; &nbsp; triumph
++ v. &nbsp; &nbsp; triumph
 
-+    n. &nbsp; &nbsp; a victory; a success
++ n. &nbsp; &nbsp; a victory; a success
 
 + syn. &nbsp; &nbsp; achievement
 

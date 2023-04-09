@@ -6,9 +6,9 @@
 
 + adj. &nbsp; &nbsp; accountable
 
-+    v. &nbsp; &nbsp; account
++ v. &nbsp; &nbsp; account
 
-+    n. &nbsp; &nbsp; a report of an event; money kept in a bank; a statement of something used or received, usually a financial report
++ n. &nbsp; &nbsp; a report of an event; money kept in a bank; a statement of something used or received, usually a financial report
 
 + syn. &nbsp; &nbsp; story
 
@@ -30,7 +30,7 @@
 
 + ph. v. &nbsp; &nbsp; to cause something to happen
 
-+    syn. &nbsp; &nbsp; generate
++ syn. &nbsp; &nbsp; generate
 
 </details>
 
@@ -38,11 +38,11 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; enlightenment
++ n. &nbsp; &nbsp; enlightenment
 
 + adj. &nbsp; &nbsp; enlightened
 
-+    v. &nbsp; &nbsp; to give information or understanding to someone
++ v. &nbsp; &nbsp; to give information or understanding to someone
 
 + syn. &nbsp; &nbsp; instruct
 
@@ -54,9 +54,9 @@
 
 + adj. &nbsp; &nbsp; hasty
 
-+    n. &nbsp; &nbsp; hastiness
++ n. &nbsp; &nbsp; hastiness
 
-+    v. &nbsp; &nbsp; to cause to go faster; move forward more quickly
++ v. &nbsp; &nbsp; to cause to go faster; move forward more quickly
 
 + syn. &nbsp; &nbsp; accelerate
 
@@ -66,7 +66,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; color
++ n. &nbsp; &nbsp; color
 
 + syn. &nbsp; &nbsp; color
 
@@ -76,7 +76,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; inactivity
++ n. &nbsp; &nbsp; inactivity
 
 + adj. &nbsp; &nbsp; not moving; not involved
 
@@ -90,7 +90,7 @@
 
 + adv. &nbsp; &nbsp; intricately
 
-+    n. &nbsp; &nbsp; intricacy
++ n. &nbsp; &nbsp; intricacy
 
 + adj. &nbsp; &nbsp; having many parts; finely detailed
 
@@ -106,9 +106,9 @@
 
 + adj. &nbsp; &nbsp; magnificent
 
-+    v. &nbsp; &nbsp; magnify*
++ v. &nbsp; &nbsp; magnify*
 
-+    n. &nbsp; &nbsp; of great size or importance*to increase
++ n. &nbsp; &nbsp; of great size or importance*to increase
 
 + syn. &nbsp; &nbsp; dimension
 
@@ -122,9 +122,9 @@
 
 + adj. &nbsp; &nbsp; obligatory
 
-+    n. &nbsp; &nbsp; obligation
++ n. &nbsp; &nbsp; obligation
 
-+    v. &nbsp; &nbsp; to have to do something
++ v. &nbsp; &nbsp; to have to do something
 
 + syn. &nbsp; &nbsp; require
 
@@ -136,7 +136,7 @@
 
 + adj. &nbsp; &nbsp; overlooked
 
-+    v. &nbsp; &nbsp; to ignore or neglect
++ v. &nbsp; &nbsp; to ignore or neglect
 
 + syn. &nbsp; &nbsp; disregard
 
@@ -146,7 +146,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; questionnaire; a vote of public opinion
++ n. &nbsp; &nbsp; questionnaire; a vote of public opinion
 
 + syn. &nbsp; &nbsp; survey
 
@@ -160,7 +160,7 @@
 
 + adj. &nbsp; &nbsp; convenient or effective
 
-+    n. &nbsp; &nbsp; practicality
++ n. &nbsp; &nbsp; practicality
 
 + syn. &nbsp; &nbsp; functional
 
@@ -172,7 +172,7 @@
 
 + adv. &nbsp; &nbsp; predominantly
 
-+    n. &nbsp; &nbsp; predominance
++ n. &nbsp; &nbsp; predominance
 
 + adj. &nbsp; &nbsp; the most noticeable or powerful element
 
@@ -186,9 +186,9 @@
 
 + adv. &nbsp; &nbsp; promptly
 
-+    n. &nbsp; &nbsp; promptness
++ n. &nbsp; &nbsp; promptness
 
-+    v. &nbsp; &nbsp; to cause something to happen; do quickly; be on time
++ v. &nbsp; &nbsp; to cause something to happen; do quickly; be on time
 
 + syn. &nbsp; &nbsp; induce
 
@@ -198,11 +198,11 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; provocation
++ n. &nbsp; &nbsp; provocation
 
 + adj. &nbsp; &nbsp; provocative
 
-+    v. &nbsp; &nbsp; to cause or produce negative behavior or result
++ v. &nbsp; &nbsp; to cause or produce negative behavior or result
 
 + syn. &nbsp; &nbsp; trigger
 

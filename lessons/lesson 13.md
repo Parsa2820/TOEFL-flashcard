@@ -16,7 +16,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; a very important or famous person, usually associated with a high position in government
++ n. &nbsp; &nbsp; a very important or famous person, usually associated with a high position in government
 
 + syn. &nbsp; &nbsp; celebrity
 
@@ -28,9 +28,9 @@
 
 + adj. &nbsp; &nbsp; elusive
 
-+    n. &nbsp; &nbsp; elusiveness
++ n. &nbsp; &nbsp; elusiveness
 
-+    v. &nbsp; &nbsp; to escape in a tricky way
++ v. &nbsp; &nbsp; to escape in a tricky way
 
 + syn. &nbsp; &nbsp; evade
 
@@ -42,7 +42,7 @@
 
 + adv. &nbsp; &nbsp; evidently
 
-+    n. &nbsp; &nbsp; evidence
++ n. &nbsp; &nbsp; evidence
 
 + adj. &nbsp; &nbsp; easy to see, usually because of some proof
 
@@ -58,9 +58,9 @@
 
 + adj. &nbsp; &nbsp; exhausted
 
-+    n. &nbsp; &nbsp; exhaustion
++ n. &nbsp; &nbsp; exhaustion
 
-+    v. &nbsp; &nbsp; to use completely; to expend all energy; very thorough
++ v. &nbsp; &nbsp; to use completely; to expend all energy; very thorough
 
 + syn. &nbsp; &nbsp; deplete
 
@@ -72,9 +72,9 @@
 
 + adv. &nbsp; &nbsp; extensively
 
-+    v. &nbsp; &nbsp; extend*
++ v. &nbsp; &nbsp; extend*
 
-+    n. &nbsp; &nbsp; extension*
++ n. &nbsp; &nbsp; extension*
 
 + adj. &nbsp; &nbsp; large in area or number*to offer; to make longer
 
@@ -86,7 +86,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; to be in the presence of and oppose
++ v. &nbsp; &nbsp; to be in the presence of and oppose
 
 + syn. &nbsp; &nbsp; confront
 
@@ -98,7 +98,7 @@
 
 + adj. &nbsp; &nbsp; faceted
 
-+    n. &nbsp; &nbsp; element or component
++ n. &nbsp; &nbsp; element or component
 
 + syn. &nbsp; &nbsp; aspect
 
@@ -108,7 +108,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; a person or image that is loyally admired or respected
++ n. &nbsp; &nbsp; a person or image that is loyally admired or respected
 
 + adj. &nbsp; &nbsp; idolatrous
 
@@ -120,7 +120,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; inaccessibility
++ n. &nbsp; &nbsp; inaccessibility
 
 + adv. &nbsp; &nbsp; inaccessibly
 
@@ -134,7 +134,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; obliviousness
++ n. &nbsp; &nbsp; obliviousness
 
 + adj. &nbsp; &nbsp; obliviously
 
@@ -158,7 +158,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; offensiveness
++ n. &nbsp; &nbsp; offensiveness
 
 + adv. &nbsp; &nbsp; offensively
 
@@ -174,9 +174,9 @@
 
 + adj. &nbsp; &nbsp; predictable
 
-+    v. &nbsp; &nbsp; predict
++ v. &nbsp; &nbsp; predict
 
-+    n. &nbsp; &nbsp; prediction
++ n. &nbsp; &nbsp; prediction
 
 + adv. &nbsp; &nbsp; in a way that foretells future events
 
@@ -190,7 +190,7 @@
 
 + adv. &nbsp; &nbsp; suitably
 
-+    v. &nbsp; &nbsp; suit
++ v. &nbsp; &nbsp; suit
 
 + adj. &nbsp; &nbsp; appropriate; correct; convenient
 
@@ -204,9 +204,9 @@
 
 + adj. &nbsp; &nbsp; surpassable
 
-+    n. &nbsp; &nbsp; surpasser
++ n. &nbsp; &nbsp; surpasser
 
-+    v. &nbsp; &nbsp; to go beyond
++ v. &nbsp; &nbsp; to go beyond
 
 + syn. &nbsp; &nbsp; exceed
 
@@ -216,9 +216,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; upholder
++ n. &nbsp; &nbsp; upholder
 
-+    v. &nbsp; &nbsp; to support or maintain
++ v. &nbsp; &nbsp; to support or maintain
 
 + syn. &nbsp; &nbsp; sustain
 

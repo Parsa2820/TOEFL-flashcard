@@ -18,7 +18,7 @@
 
 + adv. &nbsp; &nbsp; arduously
 
-+    n. &nbsp; &nbsp; arduousness
++ n. &nbsp; &nbsp; arduousness
 
 + adj. &nbsp; &nbsp; very difficult or challenging; requiring hard work
 
@@ -40,11 +40,11 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; aversion
++ n. &nbsp; &nbsp; aversion
 
 + adj. &nbsp; &nbsp; avertable
 
-+    v. &nbsp; &nbsp; to stop from occurring; to turn away or aside
++ v. &nbsp; &nbsp; to stop from occurring; to turn away or aside
 
 + syn. &nbsp; &nbsp; prevent
 
@@ -58,7 +58,7 @@
 
 + adj. &nbsp; &nbsp; defying
 
-+    v. &nbsp; &nbsp; to show little fear or regard for rules or established norms; to challenge
++ v. &nbsp; &nbsp; to show little fear or regard for rules or established norms; to challenge
 
 + syn. &nbsp; &nbsp; resist
 
@@ -68,7 +68,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; diligence
++ n. &nbsp; &nbsp; diligence
 
 + adv. &nbsp; &nbsp; diligently
 
@@ -84,9 +84,9 @@
 
 + adj. &nbsp; &nbsp; enacted
 
-+    n. &nbsp; &nbsp; enactment
++ n. &nbsp; &nbsp; enactment
 
-+    v. &nbsp; &nbsp; to pass a law
++ v. &nbsp; &nbsp; to pass a law
 
 + syn. &nbsp; &nbsp; legislate
 
@@ -98,7 +98,7 @@
 
 + adj. &nbsp; &nbsp; feigned
 
-+    v. &nbsp; &nbsp; to pretend; make believe
++ v. &nbsp; &nbsp; to pretend; make believe
 
 + syn. &nbsp; &nbsp; simulate
 
@@ -108,9 +108,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; fertilize
++ v. &nbsp; &nbsp; fertilize
 
-+    n. &nbsp; &nbsp; fertilizer
++ n. &nbsp; &nbsp; fertilizer
 
 + adj. &nbsp; &nbsp; able to produce abundantly
 
@@ -124,9 +124,9 @@
 
 + adj. &nbsp; &nbsp; fresh
 
-+    v. &nbsp; &nbsp; freshen
++ v. &nbsp; &nbsp; freshen
 
-+    n. &nbsp; &nbsp; freshness
++ n. &nbsp; &nbsp; freshness
 
 + adv. &nbsp; &nbsp; caught or produced not long ago
 
@@ -142,9 +142,9 @@
 
 + adj. &nbsp; &nbsp; functional
 
-+    v. &nbsp; &nbsp; function
++ v. &nbsp; &nbsp; function
 
-+    n. &nbsp; &nbsp; the normal purpose of something
++ n. &nbsp; &nbsp; the normal purpose of something
 
 + syn. &nbsp; &nbsp; role
 
@@ -180,7 +180,7 @@
 
 + adj. &nbsp; &nbsp; pinpoint
 
-+    v. &nbsp; &nbsp; to find or describe something with precision
++ v. &nbsp; &nbsp; to find or describe something with precision
 
 + syn. &nbsp; &nbsp; locate
 
@@ -192,9 +192,9 @@
 
 + adv. &nbsp; &nbsp; select
 
-+    v. &nbsp; &nbsp; select
++ v. &nbsp; &nbsp; select
 
-+    n. &nbsp; &nbsp; selectivity
++ n. &nbsp; &nbsp; selectivity
 
 + adj. &nbsp; &nbsp; carefully chosen
 
@@ -208,7 +208,7 @@
 
 + adv. &nbsp; &nbsp; spaciously
 
-+    n. &nbsp; &nbsp; spaciousness
++ n. &nbsp; &nbsp; spaciousness
 
 + adj. &nbsp; &nbsp; having a lot of room
 
@@ -220,7 +220,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; to fight without surrender; to persist
++ v. &nbsp; &nbsp; to fight without surrender; to persist
 
 + syn. &nbsp; &nbsp; survive
 

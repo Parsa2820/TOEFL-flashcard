@@ -4,7 +4,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; chaos
++ n. &nbsp; &nbsp; chaos
 
 + adj. &nbsp; &nbsp; being in complete disorder and confusion
 
@@ -18,7 +18,7 @@
 
 + adv. &nbsp; &nbsp; controversially
 
-+    n. &nbsp; &nbsp; controversy
++ n. &nbsp; &nbsp; controversy
 
 + adj. &nbsp; &nbsp; causing disagreement or argument
 
@@ -32,7 +32,7 @@
 
 + adj. &nbsp; &nbsp; exemplary
 
-+    v. &nbsp; &nbsp; to give an example
++ v. &nbsp; &nbsp; to give an example
 
 + syn. &nbsp; &nbsp; symbolize
 
@@ -44,7 +44,7 @@
 
 + ph. v. &nbsp; &nbsp; to account for something while making a decision or analysis
 
-+    syn. &nbsp; &nbsp; consider
++ syn. &nbsp; &nbsp; consider
 
 </details>
 
@@ -56,9 +56,9 @@
 
 + adj. &nbsp; &nbsp; giving pleasure or a feeling of accomplishment; showing thanks
 
-+    v. &nbsp; &nbsp; gratify
++ v. &nbsp; &nbsp; gratify
 
-+    n. &nbsp; &nbsp; gratefulness
++ n. &nbsp; &nbsp; gratefulness
 
 + syn. &nbsp; &nbsp; satisfying
 
@@ -68,9 +68,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; interpreting
++ n. &nbsp; &nbsp; interpreting
 
-+    v. &nbsp; &nbsp; to understand the meaning of something
++ v. &nbsp; &nbsp; to understand the meaning of something
 
 + syn. &nbsp; &nbsp; clarify
 
@@ -80,9 +80,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; launching
++ n. &nbsp; &nbsp; launching
 
-+    v. &nbsp; &nbsp; to cause something to begin
++ v. &nbsp; &nbsp; to cause something to begin
 
 + syn. &nbsp; &nbsp; initiate
 
@@ -94,7 +94,7 @@
 
 + adv. &nbsp; &nbsp; legitimately
 
-+    n. &nbsp; &nbsp; legitimacy
++ n. &nbsp; &nbsp; legitimacy
 
 + adj. &nbsp; &nbsp; reasonable; lawful
 
@@ -110,7 +110,7 @@
 
 + adv. &nbsp; &nbsp; lethargically
 
-+    n. &nbsp; &nbsp; a lack of energy or commitment; lazy; indifferent
++ n. &nbsp; &nbsp; a lack of energy or commitment; lazy; indifferent
 
 + syn. &nbsp; &nbsp; sluggishness
 
@@ -136,7 +136,7 @@
 
 + adv. &nbsp; &nbsp; radiantly
 
-+    n. &nbsp; &nbsp; radiator
++ n. &nbsp; &nbsp; radiator
 
 + adj. &nbsp; &nbsp; sending out in all directions, especially heat or light
 
@@ -148,7 +148,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; the top of a mountain range; a raised part of any surface
++ n. &nbsp; &nbsp; the top of a mountain range; a raised part of any surface
 
 + syn. &nbsp; &nbsp; crest
 
@@ -158,9 +158,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; span
++ n. &nbsp; &nbsp; span
 
-+    v. &nbsp; &nbsp; the length of time or distance from one limit to the other; to cross
++ v. &nbsp; &nbsp; the length of time or distance from one limit to the other; to cross
 
 + syn. &nbsp; &nbsp; cover
 
@@ -172,7 +172,7 @@
 
 + adv. &nbsp; &nbsp; spontaneously
 
-+    n. &nbsp; &nbsp; spontaneity
++ n. &nbsp; &nbsp; spontaneity
 
 + adj. &nbsp; &nbsp; unplanned; uncontrolled
 
@@ -184,9 +184,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; stream
++ v. &nbsp; &nbsp; stream
 
-+    n. &nbsp; &nbsp; a natural flow of something; a pouring out
++ n. &nbsp; &nbsp; a natural flow of something; a pouring out
 
 + syn. &nbsp; &nbsp; river
 

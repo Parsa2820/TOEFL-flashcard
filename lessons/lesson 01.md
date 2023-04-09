@@ -16,7 +16,7 @@
 
 + adv. &nbsp; &nbsp; abruptly
 
-+    n. &nbsp; &nbsp; abruptness
++ n. &nbsp; &nbsp; abruptness
 
 + adj. &nbsp; &nbsp; quick; without warning
 
@@ -28,11 +28,11 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; accept
++ v. &nbsp; &nbsp; accept
 
 + adv. &nbsp; &nbsp; acceptably
 
-+    n. &nbsp; &nbsp; acceptability
++ n. &nbsp; &nbsp; acceptability
 
 + adj. &nbsp; &nbsp; allowable or satisfactory
 
@@ -46,7 +46,7 @@
 
 + adj. &nbsp; &nbsp; acclaimed
 
-+    n. &nbsp; &nbsp; enthusiastic approval; applause
++ n. &nbsp; &nbsp; enthusiastic approval; applause
 
 + syn. &nbsp; &nbsp; praise
 
@@ -70,7 +70,7 @@
 
 + adv. &nbsp; &nbsp; adversely
 
-+    n. &nbsp; &nbsp; adversary
++ n. &nbsp; &nbsp; adversary
 
 + adj. &nbsp; &nbsp; displeasing, objectionable, or bad
 
@@ -82,11 +82,11 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; advise
++ v. &nbsp; &nbsp; advise
 
 + adj. &nbsp; &nbsp; advisable
 
-+    n. &nbsp; &nbsp; a recommendation given by someone not associated with the problem or situation
++ n. &nbsp; &nbsp; a recommendation given by someone not associated with the problem or situation
 
 + syn. &nbsp; &nbsp; suggestion
 
@@ -96,9 +96,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; attract
++ v. &nbsp; &nbsp; attract
 
-+    n. &nbsp; &nbsp; attractiveness
++ n. &nbsp; &nbsp; attractiveness
 
 + adv. &nbsp; &nbsp; attractively
 
@@ -136,11 +136,11 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; disapprove
++ v. &nbsp; &nbsp; disapprove
 
 + adv. &nbsp; &nbsp; disapprovingly
 
-+    n. &nbsp; &nbsp; the act of disagreeing; not giving approval
++ n. &nbsp; &nbsp; the act of disagreeing; not giving approval
 
 + syn. &nbsp; &nbsp; objection
 
@@ -150,9 +150,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; disrupt
++ v. &nbsp; &nbsp; disrupt
 
-+    n. &nbsp; &nbsp; disruption
++ n. &nbsp; &nbsp; disruption
 
 + adv. &nbsp; &nbsp; disruptively
 
@@ -168,7 +168,7 @@
 
 + adj. &nbsp; &nbsp; haphazard
 
-+    n. &nbsp; &nbsp; haphazardness
++ n. &nbsp; &nbsp; haphazardness
 
 + adv. &nbsp; &nbsp; having no order or pattern; by chance
 
@@ -180,9 +180,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; persist
++ v. &nbsp; &nbsp; persist
 
-+    n. &nbsp; &nbsp; persistence
++ n. &nbsp; &nbsp; persistence
 
 + adv. &nbsp; &nbsp; persistently
 
@@ -198,9 +198,9 @@
 
 + adj. &nbsp; &nbsp; postponable
 
-+    n. &nbsp; &nbsp; postponement
++ n. &nbsp; &nbsp; postponement
 
-+    v. &nbsp; &nbsp; to change to a later time; to delay
++ v. &nbsp; &nbsp; to change to a later time; to delay
 
 + syn. &nbsp; &nbsp; reschedule
 
@@ -210,7 +210,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; validity
++ n. &nbsp; &nbsp; validity
 
 + adv. &nbsp; &nbsp; validly
 
@@ -224,9 +224,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; withdrawal
++ n. &nbsp; &nbsp; withdrawal
 
-+    v. &nbsp; &nbsp; to remove, take out, or take back
++ v. &nbsp; &nbsp; to remove, take out, or take back
 
 + syn. &nbsp; &nbsp; extract
 

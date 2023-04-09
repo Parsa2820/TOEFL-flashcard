@@ -6,7 +6,7 @@
 
 + adj. &nbsp; &nbsp; apt
 
-+    n. &nbsp; &nbsp; aptness
++ n. &nbsp; &nbsp; aptness
 
 + adv. &nbsp; &nbsp; having a tendency to do something; likely
 
@@ -20,11 +20,11 @@
 
 + adv. &nbsp; &nbsp; demonstrably
 
-+    v. &nbsp; &nbsp; demonstrate
++ v. &nbsp; &nbsp; demonstrate
 
 + adj. &nbsp; &nbsp; demonstrable
 
-+    n. &nbsp; &nbsp; a show or exhibit
++ n. &nbsp; &nbsp; a show or exhibit
 
 +  &nbsp; &nbsp; *overtly showing emotion
 
@@ -36,7 +36,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; things combined to make something; the contents of something
++ n. &nbsp; &nbsp; things combined to make something; the contents of something
 
 + syn. &nbsp; &nbsp; elements
 
@@ -62,7 +62,7 @@
 
 + adj. &nbsp; &nbsp; marvelous
 
-+    n. &nbsp; &nbsp; something that surprises or impresses
++ n. &nbsp; &nbsp; something that surprises or impresses
 
 + syn. &nbsp; &nbsp; wonder
 
@@ -74,9 +74,9 @@
 
 + adv. &nbsp; &nbsp; moderately
 
-+    v. &nbsp; &nbsp; moderate*
++ v. &nbsp; &nbsp; moderate*
 
-+    n. &nbsp; &nbsp; moderation
++ n. &nbsp; &nbsp; moderation
 
 + adj. &nbsp; &nbsp; not too much, not too little; *to reduce
 
@@ -88,11 +88,11 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; motivation
++ n. &nbsp; &nbsp; motivation
 
 + adj. &nbsp; &nbsp; motivated
 
-+    v. &nbsp; &nbsp; to provide a reason or purpose for doing something
++ v. &nbsp; &nbsp; to provide a reason or purpose for doing something
 
 + syn. &nbsp; &nbsp; encourage
 
@@ -104,7 +104,7 @@
 
 + adv. &nbsp; &nbsp; oddly
 
-+    n. &nbsp; &nbsp; oddity
++ n. &nbsp; &nbsp; oddity
 
 + adj. &nbsp; &nbsp; unusual
 
@@ -116,7 +116,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; profuseness
++ n. &nbsp; &nbsp; profuseness
 
 + adv. &nbsp; &nbsp; profusely
 
@@ -132,9 +132,9 @@
 
 + adj. &nbsp; &nbsp; reflected
 
-+    v. &nbsp; &nbsp; reflect
++ v. &nbsp; &nbsp; reflect
 
-+    n. &nbsp; &nbsp; a picture or element thrown back
++ n. &nbsp; &nbsp; a picture or element thrown back
 
 + syn. &nbsp; &nbsp; image
 
@@ -158,9 +158,9 @@
 
 + adj. &nbsp; &nbsp; supposed
 
-+    v. &nbsp; &nbsp; suppose
++ v. &nbsp; &nbsp; suppose
 
-+    n. &nbsp; &nbsp; supposition
++ n. &nbsp; &nbsp; supposition
 
 + adv. &nbsp; &nbsp; according to reports or hearsay; widely believed or accepted
 
@@ -172,7 +172,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; sustain
++ v. &nbsp; &nbsp; sustain
 
 + adj. &nbsp; &nbsp; continuing in a constant way; remaining strong
 
@@ -188,9 +188,9 @@
 
 + adj. &nbsp; &nbsp; symbolic
 
-+    v. &nbsp; &nbsp; symbolize
++ v. &nbsp; &nbsp; symbolize
 
-+    n. &nbsp; &nbsp; signs or objects that represent something or somebody
++ n. &nbsp; &nbsp; signs or objects that represent something or somebody
 
 + syn. &nbsp; &nbsp; marks
 
@@ -204,9 +204,9 @@
 
 + adj. &nbsp; &nbsp; synthetic*
 
-+    v. &nbsp; &nbsp; synthesize
++ v. &nbsp; &nbsp; synthesize
 
-+    n. &nbsp; &nbsp; the mixing of separate things to form a whole;
++ n. &nbsp; &nbsp; the mixing of separate things to form a whole;
 
 +  &nbsp; &nbsp; *not made by nature
 
@@ -220,7 +220,7 @@
 
 + adv. &nbsp; &nbsp; tangibly
 
-+    n. &nbsp; &nbsp; tangibility
++ n. &nbsp; &nbsp; tangibility
 
 + adj. &nbsp; &nbsp; real; that which can be felt
 

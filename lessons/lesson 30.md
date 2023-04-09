@@ -18,7 +18,7 @@
 
 + adv. &nbsp; &nbsp; cleverly
 
-+    n. &nbsp; &nbsp; cleverness
++ n. &nbsp; &nbsp; cleverness
 
 + adj. &nbsp; &nbsp; intelligent; resourceful
 
@@ -34,7 +34,7 @@
 
 + adj. &nbsp; &nbsp; convincing
 
-+    v. &nbsp; &nbsp; to make someone see things your way
++ v. &nbsp; &nbsp; to make someone see things your way
 
 + syn. &nbsp; &nbsp; persuade
 
@@ -46,9 +46,9 @@
 
 + adj. &nbsp; &nbsp; enduring
 
-+    n. &nbsp; &nbsp; endurance
++ n. &nbsp; &nbsp; endurance
 
-+    v. &nbsp; &nbsp; to last; suffer pain
++ v. &nbsp; &nbsp; to last; suffer pain
 
 + syn. &nbsp; &nbsp; persevere
 
@@ -58,9 +58,9 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; forfeit
++ n. &nbsp; &nbsp; forfeit
 
-+    v. &nbsp; &nbsp; to give up; have something taken away, usually by rule or regulation
++ v. &nbsp; &nbsp; to give up; have something taken away, usually by rule or regulation
 
 + syn. &nbsp; &nbsp; relinquish
 
@@ -86,7 +86,7 @@
 
 + adv. &nbsp; &nbsp; severely
 
-+    n. &nbsp; &nbsp; severity
++ n. &nbsp; &nbsp; severity
 
 + syn. &nbsp; &nbsp; intense
 
@@ -108,7 +108,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; superiority
++ n. &nbsp; &nbsp; superiority
 
 + adj. &nbsp; &nbsp; excellent quality; above all the rest
 
@@ -122,7 +122,7 @@
 
 + adj. &nbsp; &nbsp; truncated
 
-+    v. &nbsp; &nbsp; to shorten; to end something suddenly
++ v. &nbsp; &nbsp; to shorten; to end something suddenly
 
 + syn. &nbsp; &nbsp; cut
 
@@ -146,9 +146,9 @@
 
 + adv. &nbsp; &nbsp; weakly
 
-+    v. &nbsp; &nbsp; weaken
++ v. &nbsp; &nbsp; weaken
 
-+    n. &nbsp; &nbsp; weakness
++ n. &nbsp; &nbsp; weakness
 
 + adj. &nbsp; &nbsp; not strong; incapable
 
@@ -174,7 +174,7 @@
 
 + adj. &nbsp; &nbsp; wise
 
-+    n. &nbsp; &nbsp; knowledge and understanding
++ n. &nbsp; &nbsp; knowledge and understanding
 
 + syn. &nbsp; &nbsp; insight
 
@@ -188,7 +188,7 @@
 
 + adj. &nbsp; &nbsp; witty
 
-+    n. &nbsp; &nbsp; a joke; a funny story
++ n. &nbsp; &nbsp; a joke; a funny story
 
 + syn. &nbsp; &nbsp; humor
 
@@ -198,7 +198,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    v. &nbsp; &nbsp; to make efforts to attain or gain something
++ v. &nbsp; &nbsp; to make efforts to attain or gain something
 
 + syn. &nbsp; &nbsp; attract
 

@@ -8,7 +8,7 @@
 
 + adj. &nbsp; &nbsp; clearly noticed; different
 
-+    n. &nbsp; &nbsp; distinction
++ n. &nbsp; &nbsp; distinction
 
 + syn. &nbsp; &nbsp; definite
 
@@ -20,9 +20,9 @@
 
 + adv. &nbsp; &nbsp; dominantly
 
-+    v. &nbsp; &nbsp; dominate
++ v. &nbsp; &nbsp; dominate
 
-+    n. &nbsp; &nbsp; domination
++ n. &nbsp; &nbsp; domination
 
 + adj. &nbsp; &nbsp; primary or principal; having or exercising control over something
 
@@ -34,7 +34,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; dormitory
++ n. &nbsp; &nbsp; dormitory
 
 + adj. &nbsp; &nbsp; not growing or producing; asleep
 
@@ -48,7 +48,7 @@
 
 + adv. &nbsp; &nbsp; drably
 
-+    n. &nbsp; &nbsp; drabness
++ n. &nbsp; &nbsp; drabness
 
 + adj. &nbsp; &nbsp; lacking color; uninteresting, boring
 
@@ -62,9 +62,9 @@
 
 + adv. &nbsp; &nbsp; dramatically
 
-+    v. &nbsp; &nbsp; dramatize
++ v. &nbsp; &nbsp; dramatize
 
-+    n. &nbsp; &nbsp; drama
++ n. &nbsp; &nbsp; drama
 
 + adj. &nbsp; &nbsp; something that captures the imagination; exciting
 
@@ -90,9 +90,9 @@
 
 + adv. &nbsp; &nbsp; elaborately
 
-+    v. &nbsp; &nbsp; elaborate
++ v. &nbsp; &nbsp; elaborate
 
-+    n. &nbsp; &nbsp; elaboration
++ n. &nbsp; &nbsp; elaboration
 
 + adj. &nbsp; &nbsp; something with a large number of parts; full of details
 
@@ -118,7 +118,7 @@
 
 + adv. &nbsp; &nbsp; genuinely
 
-+    n. &nbsp; &nbsp; genuineness
++ n. &nbsp; &nbsp; genuineness
 
 + adj. &nbsp; &nbsp; honest or true; real
 
@@ -132,7 +132,7 @@
 
 + adv. &nbsp; &nbsp; hazardously
 
-+    n. &nbsp; &nbsp; hazard
++ n. &nbsp; &nbsp; hazard
 
 + adj. &nbsp; &nbsp; very risky, unsafe
 
@@ -146,7 +146,7 @@
 
 + adj. &nbsp; &nbsp; of little consequence; very small
 
-+    n. &nbsp; &nbsp; minutia
++ n. &nbsp; &nbsp; minutia
 
 + syn. &nbsp; &nbsp; tiny
 
@@ -158,9 +158,9 @@
 
 + adj. &nbsp; &nbsp; prime*
 
-+    n. &nbsp; &nbsp; prime
++ n. &nbsp; &nbsp; prime
 
-+    v. &nbsp; &nbsp; to make ready;
++ v. &nbsp; &nbsp; to make ready;
 
 +  &nbsp; &nbsp; *first in importance or in time
 
@@ -172,7 +172,7 @@
 <details>
 <summary>I don't know</summary>
 
-+    n. &nbsp; &nbsp; rudiment
++ n. &nbsp; &nbsp; rudiment
 
 + adj. &nbsp; &nbsp; simple; not complex
 
@@ -186,7 +186,7 @@
 
 + adv. &nbsp; &nbsp; skeptically
 
-+    n. &nbsp; &nbsp; skeptic
++ n. &nbsp; &nbsp; skeptic
 
 + adj. &nbsp; &nbsp; to question the truthfulness of information presented as fact; to not trust
 
@@ -200,7 +200,7 @@
 
 + adv. &nbsp; &nbsp; stoically
 
-+    n. &nbsp; &nbsp; stoicism
++ n. &nbsp; &nbsp; stoicism
 
 + adj. &nbsp; &nbsp; showing no emotion; appearing disinterested
 
@@ -226,7 +226,7 @@
 
 + adv. &nbsp; &nbsp; vigorously
 
-+    n. &nbsp; &nbsp; vigor
++ n. &nbsp; &nbsp; vigor
 
 + adj. &nbsp; &nbsp; powerful, full of action
 
