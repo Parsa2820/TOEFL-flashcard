@@ -1,5 +1,5 @@
 # TOEFL-flashcards
 
 {% for lesson in lessons %}
-- [{{ lesson.title }}](#lessons/{{ lesson.title|replace(' ', '&#x20;') }}.md)
+- [{{ lesson.title }}](lessons/{{ lesson.title|replace(' ', '&#x20;') }}.md)
 {% endfor %}
