@@ -1,0 +1,205 @@
+# lesson 30
+
+## charisma
+<details>
+<summary>I don't know</summary>
+
++ adj. &nbsp; &nbsp; charismatic
+
++ n. &nbsp; &nbsp; a special quality that endears other people to the person who has this quality
+
++ syn. &nbsp; &nbsp; appeal
+
+</details>
+
+## clever
+<details>
+<summary>I don't know</summary>
+
++ adv. &nbsp; &nbsp; cleverly
+
++    n. &nbsp; &nbsp; cleverness
+
++ adj. &nbsp; &nbsp; intelligent; resourceful
+
++ syn. &nbsp; &nbsp; astute
+
+</details>
+
+## convince
+<details>
+<summary>I don't know</summary>
+
++ adv. &nbsp; &nbsp; convincingly
+
++ adj. &nbsp; &nbsp; convincing
+
++    v. &nbsp; &nbsp; to make someone see things your way
+
++ syn. &nbsp; &nbsp; persuade
+
+</details>
+
+## endure
+<details>
+<summary>I don't know</summary>
+
++ adj. &nbsp; &nbsp; enduring
+
++    n. &nbsp; &nbsp; endurance
+
++    v. &nbsp; &nbsp; to last; suffer pain
+
++ syn. &nbsp; &nbsp; persevere
+
+</details>
+
+## forfeit
+<details>
+<summary>I don't know</summary>
+
++    n. &nbsp; &nbsp; forfeit
+
++    v. &nbsp; &nbsp; to give up; have something taken away, usually by rule or regulation
+
++ syn. &nbsp; &nbsp; relinquish
+
+</details>
+
+## precarious
+<details>
+<summary>I don't know</summary>
+
++ adv. &nbsp; &nbsp; precariously
+
++ adj. &nbsp; &nbsp; not safe, firm, or steady
+
++ syn. &nbsp; &nbsp; hazardous
+
+</details>
+
+## severe
+<details>
+<summary>I don't know</summary>
+
++ adj. &nbsp; &nbsp; extreme; harmful
+
++ adv. &nbsp; &nbsp; severely
+
++    n. &nbsp; &nbsp; severity
+
++ syn. &nbsp; &nbsp; intense
+
+</details>
+
+## sporadic
+<details>
+<summary>I don't know</summary>
+
++ adv. &nbsp; &nbsp; sporadically
+
++ adj. &nbsp; &nbsp; not consistent; irregular
+
++ syn. &nbsp; &nbsp; erratic
+
+</details>
+
+## superior
+<details>
+<summary>I don't know</summary>
+
++    n. &nbsp; &nbsp; superiority
+
++ adj. &nbsp; &nbsp; excellent quality; above all the rest
+
++ syn. &nbsp; &nbsp; exceptional
+
+</details>
+
+## truncate
+<details>
+<summary>I don't know</summary>
+
++ adj. &nbsp; &nbsp; truncated
+
++    v. &nbsp; &nbsp; to shorten; to end something suddenly
+
++ syn. &nbsp; &nbsp; cut
+
+</details>
+
+## wanton
+<details>
+<summary>I don't know</summary>
+
++ adv. &nbsp; &nbsp; wantonly
+
++ adj. &nbsp; &nbsp; done without thought or consideration; grossly negligent
+
++ syn. &nbsp; &nbsp; senseless
+
+</details>
+
+## weak
+<details>
+<summary>I don't know</summary>
+
++ adv. &nbsp; &nbsp; weakly
+
++    v. &nbsp; &nbsp; weaken
+
++    n. &nbsp; &nbsp; weakness
+
++ adj. &nbsp; &nbsp; not strong; incapable
+
++ syn. &nbsp; &nbsp; ineffective
+
+</details>
+
+## widespread
+<details>
+<summary>I don't know</summary>
+
++ adj. &nbsp; &nbsp; found everywhere
+
++ syn. &nbsp; &nbsp; extensive
+
+</details>
+
+## wisdom
+<details>
+<summary>I don't know</summary>
+
++ adv. &nbsp; &nbsp; wisely
+
++ adj. &nbsp; &nbsp; wise
+
++    n. &nbsp; &nbsp; knowledge and understanding
+
++ syn. &nbsp; &nbsp; insight
+
+</details>
+
+## witticism
+<details>
+<summary>I don't know</summary>
+
++ adv. &nbsp; &nbsp; wittily
+
++ adj. &nbsp; &nbsp; witty
+
++    n. &nbsp; &nbsp; a joke; a funny story
+
++ syn. &nbsp; &nbsp; humor
+
+</details>
+
+## woo
+<details>
+<summary>I don't know</summary>
+
++    v. &nbsp; &nbsp; to make efforts to attain or gain something
+
++ syn. &nbsp; &nbsp; attract
+
+</details>
