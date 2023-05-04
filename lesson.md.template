@@ -1,6 +1,7 @@
 # {{ lesson.title }}
 {% for word in lesson.words %}
 ## {{ word.word }}
+![](audio/{{ word.word }}.ogg)
 <details>
 <summary>I don't know</summary>
 {% for key, value in word.details.items() %}

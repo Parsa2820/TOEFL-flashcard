@@ -1,5 +1,7 @@
 from dataclasses import dataclass
 import os
+import requests
+import wget
 from bs4 import BeautifulSoup
 import jinja2
 
@@ -18,6 +20,14 @@ class Word:
     details: dict
 
 
+def download_audio(word: str) -> None:
+    url = f'https://commons.wikimedia.org/wiki/File:En-us-{word}.ogg'
+    response = requests.get(url)
+    file_url = BeautifulSoup(response.content, "html.parser").find(
+        class_='fullMedia').findChild('a')['href']
+    wget.download(file_url, f'audio/{word}.ogg')
+
+
 lessons_html = [x for x in os.listdir(BOOK_PATH)
                 if x.startswith('lesson') and x.endswith('.html')]
 lessons = []
@@ -31,6 +41,7 @@ for lesson_html in lessons_html:
             word = Word(word=tag.text, details={})
             if word.word == 'MATCHING':
                 break
+            download_audio(word.word)
             details_html = tag.find_next('table')
             for detail_html in details_html.find_all('tr'):
                 key = detail_html.find_next('td')
