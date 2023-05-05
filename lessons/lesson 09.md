@@ -1,6 +1,7 @@
 # lesson 09
 
 ## accurate
+![](audio/accurate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -15,6 +16,7 @@
 </details>
 
 ## acute
+![](audio/acute.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -29,6 +31,7 @@
 </details>
 
 ## classify
+![](audio/classify.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -43,6 +46,7 @@
 </details>
 
 ## currency
+![](audio/currency.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -53,6 +57,7 @@
 </details>
 
 ## deep
+![](audio/deep.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -69,6 +74,7 @@
 </details>
 
 ## dense
+![](audio/dense.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -83,6 +89,7 @@
 </details>
 
 ## dim
+![](audio/dim.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -99,6 +106,7 @@
 </details>
 
 ## display
+![](audio/display.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -111,6 +119,7 @@
 </details>
 
 ## exports
+![](audio/exports.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -125,6 +134,7 @@
 </details>
 
 ## gigantic
+![](audio/gigantic.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -137,6 +147,7 @@
 </details>
 
 ## impressive
+![](audio/impressive.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -153,6 +164,7 @@
 </details>
 
 ## install
+![](audio/install.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -165,6 +177,7 @@
 </details>
 
 ## jargon
+![](audio/jargon.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -177,6 +190,7 @@
 </details>
 
 ## lasting
+![](audio/lasting.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -189,6 +203,7 @@
 </details>
 
 ## straightforward
+![](audio/straightforward.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -203,6 +218,7 @@
 </details>
 
 ## uniform
+![](audio/uniform.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -217,6 +233,7 @@
 </details>
 
 ## vibrant
+![](audio/vibrant.ogg)
 <details>
 <summary>I don't know</summary>
 

@@ -1,6 +1,7 @@
 # lesson 03
 
 ## alter
+![](audio/alter.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -17,6 +18,7 @@
 </details>
 
 ## analyze
+![](audio/analyze.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -29,6 +31,7 @@
 </details>
 
 ## ancient
+![](audio/ancient.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -39,6 +42,7 @@
 </details>
 
 ## annoying
+![](audio/annoying.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -55,6 +59,7 @@
 </details>
 
 ## anticipate
+![](audio/anticipate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -69,6 +74,7 @@
 </details>
 
 ## ascertain
+![](audio/ascertain.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -85,6 +91,7 @@
 </details>
 
 ## conform
+![](audio/conform.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -97,6 +104,7 @@
 </details>
 
 ## enrich
+![](audio/enrich.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -111,6 +119,7 @@
 </details>
 
 ## intensify
+![](audio/intensify.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -127,6 +136,7 @@
 </details>
 
 ## intolerable
+![](audio/intolerable.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -141,6 +151,7 @@
 </details>
 
 ## ongoing
+![](audio/ongoing.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -151,6 +162,7 @@
 </details>
 
 ## potential
+![](audio/potential.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -165,6 +177,7 @@
 </details>
 
 ## propose
+![](audio/propose.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -179,6 +192,7 @@
 </details>
 
 ## restore
+![](audio/restore.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -193,6 +207,7 @@
 </details>
 
 ## staple
+![](audio/staple.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -203,6 +218,7 @@
 </details>
 
 ## turbulent
+![](audio/turbulent.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -217,6 +233,7 @@
 </details>
 
 ## vital
+![](audio/vital.ogg)
 <details>
 <summary>I don't know</summary>
 

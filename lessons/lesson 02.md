@@ -1,6 +1,7 @@
 # lesson 02
 
 ## advantage
+![](audio/advantage.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -15,6 +16,7 @@
 </details>
 
 ## advent
+![](audio/advent.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -25,6 +27,7 @@
 </details>
 
 ## agile
+![](audio/agile.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -39,6 +42,7 @@
 </details>
 
 ## albeit
+![](audio/albeit.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -49,6 +53,7 @@
 </details>
 
 ## appealing
+![](audio/appealing.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -65,6 +70,7 @@
 </details>
 
 ## celebrated
+![](audio/celebrated.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -75,6 +81,7 @@
 </details>
 
 ## circumvent
+![](audio/circumvent.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -87,6 +94,7 @@
 </details>
 
 ## collide
+![](audio/collide.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -99,6 +107,7 @@
 </details>
 
 ## contemporary
+![](audio/contemporary.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -111,6 +120,7 @@
 </details>
 
 ## distribute
+![](audio/distribute.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -123,6 +133,7 @@
 </details>
 
 ## encourage
+![](audio/encourage.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -137,6 +148,7 @@
 </details>
 
 ## energetic
+![](audio/energetic.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -151,6 +163,7 @@
 </details>
 
 ## frail
+![](audio/frail.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -163,6 +176,7 @@
 </details>
 
 ## heyday
+![](audio/heyday.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -173,6 +187,7 @@
 </details>
 
 ## myth
+![](audio/myth.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -185,6 +200,7 @@
 </details>
 
 ## refine
+![](audio/refine.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -199,6 +215,7 @@
 </details>
 
 ## worthwhile
+![](audio/worthwhile.ogg)
 <details>
 <summary>I don't know</summary>
 

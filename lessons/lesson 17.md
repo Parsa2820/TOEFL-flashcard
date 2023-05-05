@@ -1,6 +1,7 @@
 # lesson 17
 
 ## agitate
+![](audio/agitate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -13,6 +14,7 @@
 </details>
 
 ## comply
+![](audio/comply.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -27,6 +29,7 @@
 </details>
 
 ## confidential
+![](audio/confidential.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -43,6 +46,7 @@
 </details>
 
 ## delighted
+![](audio/delighted.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -55,6 +59,7 @@
 </details>
 
 ## discreetly
+![](audio/discreetly.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -67,6 +72,7 @@
 </details>
 
 ## documented
+![](audio/documented.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -81,6 +87,7 @@
 </details>
 
 ## evoke
+![](audio/evoke.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -91,6 +98,7 @@
 </details>
 
 ## gradually
+![](audio/gradually.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -103,6 +111,7 @@
 </details>
 
 ## impartial
+![](audio/impartial.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -115,6 +124,7 @@
 </details>
 
 ## inordinate
+![](audio/inordinate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -127,6 +137,7 @@
 </details>
 
 ## instantly
+![](audio/instantly.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -141,6 +152,7 @@
 </details>
 
 ## intentionally
+![](audio/intentionally.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -155,6 +167,7 @@
 </details>
 
 ## intrinsic
+![](audio/intrinsic.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -167,6 +180,7 @@
 </details>
 
 ## inundate
+![](audio/inundate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -179,6 +193,7 @@
 </details>
 
 ## mindset
+![](audio/mindset.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -189,6 +204,7 @@
 </details>
 
 ## nominal
+![](audio/nominal.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -201,6 +217,7 @@
 </details>
 
 ## presumably
+![](audio/presumably.ogg)
 <details>
 <summary>I don't know</summary>
 

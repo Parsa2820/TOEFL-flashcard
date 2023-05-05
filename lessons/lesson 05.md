@@ -1,6 +1,7 @@
 # lesson 05
 
 ## baffle
+![](audio/baffle.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -15,6 +16,7 @@
 </details>
 
 ## bear
+![](audio/bear.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -29,6 +31,7 @@
 </details>
 
 ## blur
+![](audio/blur.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -43,6 +46,7 @@
 </details>
 
 ## brilliant
+![](audio/brilliant.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -57,6 +61,7 @@
 </details>
 
 ## caution
+![](audio/caution.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -73,6 +78,7 @@
 </details>
 
 ## delicate
+![](audio/delicate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -85,6 +91,7 @@
 </details>
 
 ## enhance
+![](audio/enhance.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -99,6 +106,7 @@
 </details>
 
 ## facilitate
+![](audio/facilitate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -111,6 +119,7 @@
 </details>
 
 ## incessant
+![](audio/incessant.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -123,6 +132,7 @@
 </details>
 
 ## in conjunction with
+![](audio/in conjunction with.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -135,6 +145,7 @@
 </details>
 
 ## intrigue
+![](audio/intrigue.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -151,6 +162,7 @@
 </details>
 
 ## obstruct
+![](audio/obstruct.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -167,6 +179,7 @@
 </details>
 
 ## persuade
+![](audio/persuade.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -183,6 +196,7 @@
 </details>
 
 ## recompense
+![](audio/recompense.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -197,6 +211,7 @@
 </details>
 
 ## shed
+![](audio/shed.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -207,6 +222,7 @@
 </details>
 
 ## unique
+![](audio/unique.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -221,6 +237,7 @@
 </details>
 
 ## well-suited
+![](audio/well-suited.ogg)
 <details>
 <summary>I don't know</summary>
 

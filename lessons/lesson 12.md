@@ -1,6 +1,7 @@
 # lesson 12
 
 ## benefit
+![](audio/benefit.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -17,6 +18,7 @@
 </details>
 
 ## blind
+![](audio/blind.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -31,6 +33,7 @@
 </details>
 
 ## broaden
+![](audio/broaden.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -47,6 +50,7 @@
 </details>
 
 ## burgeon
+![](audio/burgeon.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -59,6 +63,7 @@
 </details>
 
 ## conspicuously
+![](audio/conspicuously.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -71,6 +76,7 @@
 </details>
 
 ## deficient
+![](audio/deficient.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -85,6 +91,7 @@
 </details>
 
 ## eloquent
+![](audio/eloquent.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -99,6 +106,7 @@
 </details>
 
 ## endorse
+![](audio/endorse.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -111,6 +119,7 @@
 </details>
 
 ## enormous
+![](audio/enormous.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -125,6 +134,7 @@
 </details>
 
 ## entirely
+![](audio/entirely.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -139,6 +149,7 @@
 </details>
 
 ## erode
+![](audio/erode.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -151,6 +162,7 @@
 </details>
 
 ## evaporate
+![](audio/evaporate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -163,6 +175,7 @@
 </details>
 
 ## noteworthy
+![](audio/noteworthy.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -175,6 +188,7 @@
 </details>
 
 ## recover
+![](audio/recover.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -189,6 +203,7 @@
 </details>
 
 ## reportedly
+![](audio/reportedly.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -205,6 +220,7 @@
 </details>
 
 ## shift
+![](audio/shift.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -219,6 +235,7 @@
 </details>
 
 ## susceptible
+![](audio/susceptible.ogg)
 <details>
 <summary>I don't know</summary>
 

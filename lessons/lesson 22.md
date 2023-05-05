@@ -1,6 +1,7 @@
 # lesson 22
 
 ## account
+![](audio/account.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -15,6 +16,7 @@
 </details>
 
 ## archaic
+![](audio/archaic.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -25,6 +27,7 @@
 </details>
 
 ## bring about
+![](audio/bring about.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -35,6 +38,7 @@
 </details>
 
 ## enlighten
+![](audio/enlighten.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -49,6 +53,7 @@
 </details>
 
 ## hasten
+![](audio/hasten.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -63,6 +68,7 @@
 </details>
 
 ## hue
+![](audio/hue.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -73,6 +79,7 @@
 </details>
 
 ## inactive
+![](audio/inactive.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -85,6 +92,7 @@
 </details>
 
 ## intricate
+![](audio/intricate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -99,6 +107,7 @@
 </details>
 
 ## magnitude
+![](audio/magnitude.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -115,6 +124,7 @@
 </details>
 
 ## oblige
+![](audio/oblige.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -131,6 +141,7 @@
 </details>
 
 ## overlook
+![](audio/overlook.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -143,6 +154,7 @@
 </details>
 
 ## poll
+![](audio/poll.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -153,6 +165,7 @@
 </details>
 
 ## practical
+![](audio/practical.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -167,6 +180,7 @@
 </details>
 
 ## predominant
+![](audio/predominant.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -181,6 +195,7 @@
 </details>
 
 ## prompt
+![](audio/prompt.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -195,6 +210,7 @@
 </details>
 
 ## provoke
+![](audio/provoke.ogg)
 <details>
 <summary>I don't know</summary>
 

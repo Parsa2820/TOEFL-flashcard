@@ -1,6 +1,7 @@
 # lesson 11
 
 ## amenity
+![](audio/amenity.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -11,6 +12,7 @@
 </details>
 
 ## disperse
+![](audio/disperse.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -23,6 +25,7 @@
 </details>
 
 ## dwelling
+![](audio/dwelling.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -35,6 +38,7 @@
 </details>
 
 ## element
+![](audio/element.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -49,6 +53,7 @@
 </details>
 
 ## elementary
+![](audio/elementary.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -59,6 +64,7 @@
 </details>
 
 ## eliminate
+![](audio/eliminate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -73,6 +79,7 @@
 </details>
 
 ## emerge
+![](audio/emerge.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -85,6 +92,7 @@
 </details>
 
 ## emphasize
+![](audio/emphasize.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -101,6 +109,7 @@
 </details>
 
 ## encircle
+![](audio/encircle.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -113,6 +122,7 @@
 </details>
 
 ## erratic
+![](audio/erratic.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -125,6 +135,7 @@
 </details>
 
 ## exaggerate
+![](audio/exaggerate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -139,6 +150,7 @@
 </details>
 
 ## integral
+![](audio/integral.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -153,6 +165,7 @@
 </details>
 
 ## justify
+![](audio/justify.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -167,6 +180,7 @@
 </details>
 
 ## mention
+![](audio/mention.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -181,6 +195,7 @@
 </details>
 
 ## mortify
+![](audio/mortify.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -193,6 +208,7 @@
 </details>
 
 ## prevalent
+![](audio/prevalent.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -205,6 +221,7 @@
 </details>
 
 ## release
+![](audio/release.ogg)
 <details>
 <summary>I don't know</summary>
 

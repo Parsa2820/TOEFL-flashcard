@@ -1,6 +1,7 @@
 # lesson 23
 
 ## analogous
+![](audio/analogous.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -13,6 +14,7 @@
 </details>
 
 ## approximately
+![](audio/approximately.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -29,6 +31,7 @@
 </details>
 
 ## compel
+![](audio/compel.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -43,6 +46,7 @@
 </details>
 
 ## compile
+![](audio/compile.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -55,6 +59,7 @@
 </details>
 
 ## formidable
+![](audio/formidable.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -67,6 +72,7 @@
 </details>
 
 ## intrusive
+![](audio/intrusive.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -83,6 +89,7 @@
 </details>
 
 ## periodic
+![](audio/periodic.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -95,6 +102,7 @@
 </details>
 
 ## prone
+![](audio/prone.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -105,6 +113,7 @@
 </details>
 
 ## prophetic
+![](audio/prophetic.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -121,6 +130,7 @@
 </details>
 
 ## proportions
+![](audio/proportions.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -135,6 +145,7 @@
 </details>
 
 ## readily
+![](audio/readily.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -151,6 +162,7 @@
 </details>
 
 ## reliably
+![](audio/reliably.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -167,6 +179,7 @@
 </details>
 
 ## reluctantly
+![](audio/reluctantly.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -179,6 +192,7 @@
 </details>
 
 ## renown
+![](audio/renown.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -191,6 +205,7 @@
 </details>
 
 ## revive
+![](audio/revive.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -205,6 +220,7 @@
 </details>
 
 ## triumph
+![](audio/triumph.ogg)
 <details>
 <summary>I don't know</summary>
 

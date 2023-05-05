@@ -1,6 +1,7 @@
 # lesson 08
 
 ## accelerate
+![](audio/accelerate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -13,6 +14,7 @@
 </details>
 
 ## creep
+![](audio/creep.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -25,6 +27,7 @@
 </details>
 
 ## crush
+![](audio/crush.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -39,6 +42,7 @@
 </details>
 
 ## cultivate
+![](audio/cultivate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -53,6 +57,7 @@
 </details>
 
 ## dictate
+![](audio/dictate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -67,6 +72,7 @@
 </details>
 
 ## distinguish
+![](audio/distinguish.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -79,6 +85,7 @@
 </details>
 
 ## docile
+![](audio/docile.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -93,6 +100,7 @@
 </details>
 
 ## engender
+![](audio/engender.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -103,6 +111,7 @@
 </details>
 
 ## engross
+![](audio/engross.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -117,6 +126,7 @@
 </details>
 
 ## flaw
+![](audio/flaw.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -129,6 +139,7 @@
 </details>
 
 ## harvest
+![](audio/harvest.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -143,6 +154,7 @@
 </details>
 
 ## mammoth
+![](audio/mammoth.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -155,6 +167,7 @@
 </details>
 
 ## mirror
+![](audio/mirror.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -167,6 +180,7 @@
 </details>
 
 ## obtain
+![](audio/obtain.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -179,6 +193,7 @@
 </details>
 
 ## particle
+![](audio/particle.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -189,6 +204,7 @@
 </details>
 
 ## settle
+![](audio/settle.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -203,6 +219,7 @@
 </details>
 
 ## transport
+![](audio/transport.ogg)
 <details>
 <summary>I don't know</summary>
 

@@ -1,6 +1,7 @@
 # lesson 01
 
 ## abroad
+![](audio/abroad.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -11,6 +12,7 @@
 </details>
 
 ## abrupt
+![](audio/abrupt.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -25,6 +27,7 @@
 </details>
 
 ## acceptable
+![](audio/acceptable.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -41,6 +44,7 @@
 </details>
 
 ## acclaim
+![](audio/acclaim.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -53,6 +57,7 @@
 </details>
 
 ## actually
+![](audio/actually.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -65,6 +70,7 @@
 </details>
 
 ## adverse
+![](audio/adverse.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -79,6 +85,7 @@
 </details>
 
 ## advice
+![](audio/advice.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -93,6 +100,7 @@
 </details>
 
 ## attractive
+![](audio/attractive.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -109,6 +117,7 @@
 </details>
 
 ## autonomous
+![](audio/autonomous.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -121,6 +130,7 @@
 </details>
 
 ## chronic
+![](audio/chronic.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -133,6 +143,7 @@
 </details>
 
 ## disapproval
+![](audio/disapproval.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -147,6 +158,7 @@
 </details>
 
 ## disruptive
+![](audio/disruptive.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -163,6 +175,7 @@
 </details>
 
 ## haphazardly
+![](audio/haphazardly.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -177,6 +190,7 @@
 </details>
 
 ## persistent
+![](audio/persistent.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -193,6 +207,7 @@
 </details>
 
 ## postpone
+![](audio/postpone.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -207,6 +222,7 @@
 </details>
 
 ## valid
+![](audio/valid.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -221,6 +237,7 @@
 </details>
 
 ## withdraw
+![](audio/withdraw.ogg)
 <details>
 <summary>I don't know</summary>
 

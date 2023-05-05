@@ -1,6 +1,7 @@
 # lesson 28
 
 ## aggravating
+![](audio/aggravating.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -15,6 +16,7 @@
 </details>
 
 ## amusement
+![](audio/amusement.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -31,6 +33,7 @@
 </details>
 
 ## conceivably
+![](audio/conceivably.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -45,6 +48,7 @@
 </details>
 
 ## convert
+![](audio/convert.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -59,6 +63,7 @@
 </details>
 
 ## curative
+![](audio/curative.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -71,6 +76,7 @@
 </details>
 
 ## debilitating
+![](audio/debilitating.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -85,6 +91,7 @@
 </details>
 
 ## deplete
+![](audio/deplete.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -99,6 +106,7 @@
 </details>
 
 ## finite
+![](audio/finite.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -109,6 +117,7 @@
 </details>
 
 ## perceive
+![](audio/perceive.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -125,6 +134,7 @@
 </details>
 
 ## security
+![](audio/security.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -141,6 +151,7 @@
 </details>
 
 ## take on
+![](audio/take on.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -151,6 +162,7 @@
 </details>
 
 ## toxic
+![](audio/toxic.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -163,6 +175,7 @@
 </details>
 
 ## tranquility
+![](audio/tranquility.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -179,6 +192,7 @@
 </details>
 
 ## trap
+![](audio/trap.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -193,6 +207,7 @@
 </details>
 
 ## undeniably
+![](audio/undeniably.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -205,6 +220,7 @@
 </details>
 
 ## underestimated
+![](audio/underestimated.ogg)
 <details>
 <summary>I don't know</summary>
 

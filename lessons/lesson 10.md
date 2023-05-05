@@ -1,6 +1,7 @@
 # lesson 10
 
 ## distinct
+![](audio/distinct.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -15,6 +16,7 @@
 </details>
 
 ## dominant
+![](audio/dominant.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -31,6 +33,7 @@
 </details>
 
 ## dormant
+![](audio/dormant.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -43,6 +46,7 @@
 </details>
 
 ## drab
+![](audio/drab.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -57,6 +61,7 @@
 </details>
 
 ## dramatic
+![](audio/dramatic.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -73,6 +78,7 @@
 </details>
 
 ## eclectic
+![](audio/eclectic.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -85,6 +91,7 @@
 </details>
 
 ## elaborate
+![](audio/elaborate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -101,6 +108,7 @@
 </details>
 
 ## exceptional
+![](audio/exceptional.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -113,6 +121,7 @@
 </details>
 
 ## genuine
+![](audio/genuine.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -127,6 +136,7 @@
 </details>
 
 ## hazardous
+![](audio/hazardous.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -141,6 +151,7 @@
 </details>
 
 ## minuscule
+![](audio/minuscule.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -153,6 +164,7 @@
 </details>
 
 ## prime
+![](audio/prime.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -169,6 +181,7 @@
 </details>
 
 ## rudimentary
+![](audio/rudimentary.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -181,6 +194,7 @@
 </details>
 
 ## skeptical
+![](audio/skeptical.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -195,6 +209,7 @@
 </details>
 
 ## stoic
+![](audio/stoic.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -209,6 +224,7 @@
 </details>
 
 ## superficial
+![](audio/superficial.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -221,6 +237,7 @@
 </details>
 
 ## vigorous
+![](audio/vigorous.ogg)
 <details>
 <summary>I don't know</summary>
 

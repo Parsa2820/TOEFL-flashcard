@@ -1,6 +1,7 @@
 # lesson 21
 
 ## decline
+![](audio/decline.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -13,6 +14,7 @@
 </details>
 
 ## gather
+![](audio/gather.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -25,6 +27,7 @@
 </details>
 
 ## motion
+![](audio/motion.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -37,6 +40,7 @@
 </details>
 
 ## outburst
+![](audio/outburst.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -47,6 +51,7 @@
 </details>
 
 ## partisan
+![](audio/partisan.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -57,6 +62,7 @@
 </details>
 
 ## pattern
+![](audio/pattern.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -71,6 +77,7 @@
 </details>
 
 ## phenomena
+![](audio/phenomena.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -85,6 +92,7 @@
 </details>
 
 ## philanthropic
+![](audio/philanthropic.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -97,6 +105,7 @@
 </details>
 
 ## placid
+![](audio/placid.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -109,6 +118,7 @@
 </details>
 
 ## plentiful
+![](audio/plentiful.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -123,6 +133,7 @@
 </details>
 
 ## reaction
+![](audio/reaction.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -139,6 +150,7 @@
 </details>
 
 ## rhythm
+![](audio/rhythm.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -153,6 +165,7 @@
 </details>
 
 ## scenic
+![](audio/scenic.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -167,6 +180,7 @@
 </details>
 
 ## shallow
+![](audio/shallow.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -181,6 +195,7 @@
 </details>
 
 ## sheltered
+![](audio/sheltered.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -195,6 +210,7 @@
 </details>
 
 ## vanishing
+![](audio/vanishing.ogg)
 <details>
 <summary>I don't know</summary>
 

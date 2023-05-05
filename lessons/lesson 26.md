@@ -1,6 +1,7 @@
 # lesson 26
 
 ## chaotic
+![](audio/chaotic.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -13,6 +14,7 @@
 </details>
 
 ## controversial
+![](audio/controversial.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -27,6 +29,7 @@
 </details>
 
 ## exemplify
+![](audio/exemplify.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -39,6 +42,7 @@
 </details>
 
 ## factor in
+![](audio/factor in.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -49,6 +53,7 @@
 </details>
 
 ## gratifying
+![](audio/gratifying.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -65,6 +70,7 @@
 </details>
 
 ## interpret
+![](audio/interpret.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -77,6 +83,7 @@
 </details>
 
 ## launch
+![](audio/launch.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -89,6 +96,7 @@
 </details>
 
 ## legitimate
+![](audio/legitimate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -103,6 +111,7 @@
 </details>
 
 ## lethargy
+![](audio/lethargy.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -117,6 +126,7 @@
 </details>
 
 ## particular
+![](audio/particular.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -131,6 +141,7 @@
 </details>
 
 ## radiant
+![](audio/radiant.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -145,6 +156,7 @@
 </details>
 
 ## ridge
+![](audio/ridge.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -155,6 +167,7 @@
 </details>
 
 ## span
+![](audio/span.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -167,6 +180,7 @@
 </details>
 
 ## spontaneous
+![](audio/spontaneous.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -181,6 +195,7 @@
 </details>
 
 ## stream
+![](audio/stream.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -193,6 +208,7 @@
 </details>
 
 ## striking
+![](audio/striking.ogg)
 <details>
 <summary>I don't know</summary>
 

@@ -1,6 +1,7 @@
 # lesson 16
 
 ## conscientious
+![](audio/conscientious.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -13,6 +14,7 @@
 </details>
 
 ## convey
+![](audio/convey.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -23,6 +25,7 @@
 </details>
 
 ## encompass
+![](audio/encompass.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -33,6 +36,7 @@
 </details>
 
 ## expansion
+![](audio/expansion.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -47,6 +51,7 @@
 </details>
 
 ## heighten
+![](audio/heighten.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -61,6 +66,7 @@
 </details>
 
 ## highlight
+![](audio/highlight.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -73,6 +79,7 @@
 </details>
 
 ## inadvertently
+![](audio/inadvertently.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -85,6 +92,7 @@
 </details>
 
 ## inevitable
+![](audio/inevitable.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -99,6 +107,7 @@
 </details>
 
 ## infancy
+![](audio/infancy.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -111,6 +120,7 @@
 </details>
 
 ## mimic
+![](audio/mimic.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -123,6 +133,7 @@
 </details>
 
 ## paramount
+![](audio/paramount.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -137,6 +148,7 @@
 </details>
 
 ## proficient
+![](audio/proficient.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -151,6 +163,7 @@
 </details>
 
 ## retrieve
+![](audio/retrieve.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -165,6 +178,7 @@
 </details>
 
 ## systematically
+![](audio/systematically.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -179,6 +193,7 @@
 </details>
 
 ## unlikely
+![](audio/unlikely.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -189,6 +204,7 @@
 </details>
 
 ## unwarranted
+![](audio/unwarranted.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -199,6 +215,7 @@
 </details>
 
 ## zenith
+![](audio/zenith.ogg)
 <details>
 <summary>I don't know</summary>
 

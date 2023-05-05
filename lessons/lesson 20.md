@@ -1,6 +1,7 @@
 # lesson 20
 
 ## accentuate
+![](audio/accentuate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -15,6 +16,7 @@
 </details>
 
 ## devise
+![](audio/devise.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -27,6 +29,7 @@
 </details>
 
 ## disguise
+![](audio/disguise.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -41,6 +44,7 @@
 </details>
 
 ## ignite
+![](audio/ignite.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -55,6 +59,7 @@
 </details>
 
 ## indifferent
+![](audio/indifferent.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -67,6 +72,7 @@
 </details>
 
 ## initiate
+![](audio/initiate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -81,6 +87,7 @@
 </details>
 
 ## innovative
+![](audio/innovative.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -93,6 +100,7 @@
 </details>
 
 ## narrate
+![](audio/narrate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -107,6 +115,7 @@
 </details>
 
 ## nevertheless
+![](audio/nevertheless.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -117,6 +126,7 @@
 </details>
 
 ## obsolete
+![](audio/obsolete.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -129,6 +139,7 @@
 </details>
 
 ## omit
+![](audio/omit.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -143,6 +154,7 @@
 </details>
 
 ## outlandish
+![](audio/outlandish.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -155,6 +167,7 @@
 </details>
 
 ## overcome
+![](audio/overcome.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -165,6 +178,7 @@
 </details>
 
 ## partially
+![](audio/partially.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -179,6 +193,7 @@
 </details>
 
 ## pass
+![](audio/pass.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -193,6 +208,7 @@
 </details>
 
 ## portray
+![](audio/portray.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -205,6 +221,7 @@
 </details>
 
 ## streamline
+![](audio/streamline.ogg)
 <details>
 <summary>I don't know</summary>
 

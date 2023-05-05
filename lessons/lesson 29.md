@@ -1,6 +1,7 @@
 # lesson 29
 
 ## acknowledge
+![](audio/acknowledge.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -15,6 +16,7 @@
 </details>
 
 ## acquire
+![](audio/acquire.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -29,6 +31,7 @@
 </details>
 
 ## assimilate
+![](audio/assimilate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -41,6 +44,7 @@
 </details>
 
 ## assortment
+![](audio/assortment.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -53,6 +57,7 @@
 </details>
 
 ## caliber
+![](audio/caliber.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -63,6 +68,7 @@
 </details>
 
 ## condensed
+![](audio/condensed.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -75,6 +81,7 @@
 </details>
 
 ## contradictory
+![](audio/contradictory.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -89,6 +96,7 @@
 </details>
 
 ## disregard
+![](audio/disregard.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -101,6 +109,7 @@
 </details>
 
 ## precious
+![](audio/precious.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -111,6 +120,7 @@
 </details>
 
 ## prominent
+![](audio/prominent.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -125,6 +135,7 @@
 </details>
 
 ## requisite
+![](audio/requisite.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -139,6 +150,7 @@
 </details>
 
 ## stable
+![](audio/stable.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -153,6 +165,7 @@
 </details>
 
 ## unravel
+![](audio/unravel.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -165,6 +178,7 @@
 </details>
 
 ## vague
+![](audio/vague.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -179,6 +193,7 @@
 </details>
 
 ## vast
+![](audio/vast.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -191,6 +206,7 @@
 </details>
 
 ## volume
+![](audio/volume.ogg)
 <details>
 <summary>I don't know</summary>
 

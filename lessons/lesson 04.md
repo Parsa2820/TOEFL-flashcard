@@ -1,6 +1,7 @@
 # lesson 04
 
 ## ambiguous
+![](audio/ambiguous.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -15,6 +16,7 @@
 </details>
 
 ## arbitrary
+![](audio/arbitrary.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -29,6 +31,7 @@
 </details>
 
 ## assert
+![](audio/assert.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -45,6 +48,7 @@
 </details>
 
 ## astounding
+![](audio/astounding.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -59,6 +63,7 @@
 </details>
 
 ## astute
+![](audio/astute.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -71,6 +76,7 @@
 </details>
 
 ## concur
+![](audio/concur.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -83,6 +89,7 @@
 </details>
 
 ## deceptively
+![](audio/deceptively.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -99,6 +106,7 @@
 </details>
 
 ## designate
+![](audio/designate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -111,6 +119,7 @@
 </details>
 
 ## determined
+![](audio/determined.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -125,6 +134,7 @@
 </details>
 
 ## elicit
+![](audio/elicit.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -137,6 +147,7 @@
 </details>
 
 ## embody
+![](audio/embody.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -149,6 +160,7 @@
 </details>
 
 ## instigate
+![](audio/instigate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -165,6 +177,7 @@
 </details>
 
 ## mundane
+![](audio/mundane.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -179,6 +192,7 @@
 </details>
 
 ## petition
+![](audio/petition.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -191,6 +205,7 @@
 </details>
 
 ## relinquish
+![](audio/relinquish.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -203,6 +218,7 @@
 </details>
 
 ## resilient
+![](audio/resilient.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -217,6 +233,7 @@
 </details>
 
 ## tempt
+![](audio/tempt.ogg)
 <details>
 <summary>I don't know</summary>
 

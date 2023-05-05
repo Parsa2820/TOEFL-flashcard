@@ -4,6 +4,7 @@ import requests
 import wget
 from bs4 import BeautifulSoup
 import jinja2
+from time import sleep
 
 BOOK_PATH = './book/OEBPS/'
 
@@ -20,18 +21,20 @@ class Word:
     details: dict
 
 
-no_audio = 0
-
-
 def download_audio(word: str) -> None:
+    file_path = f'audio/{word}.ogg'
+    if os.path.exists(file_path):
+        return
+    headers = {
+        'User-Agent': 'CoolBot/0.0 (https://example.org/coolbot/; coolbot@example.org)'}
     url = f'https://commons.wikimedia.org/wiki/File:En-us-{word}.ogg'
-    response = requests.get(url)
-    if requests.status_codes == 404:
-        no_audio += 1
+    response = requests.get(url, headers=headers)
+    if response.status_code == 404:
         return
     file_url = BeautifulSoup(response.content, "html.parser").find(
         class_='fullMedia').findChild('a')['href']
-    wget.download(file_url, f'audio/{word}.ogg')
+    sleep(1)
+    wget.download(file_url, file_path)
 
 
 lessons_html = [x for x in os.listdir(BOOK_PATH)
@@ -68,5 +71,3 @@ for lesson in lessons:
         template = jinja2.Template(f.read())
     with open(f'lessons/{lesson.title}.md', 'w') as f:
         f.write(template.render(lesson=lesson))
-
-print(f'{no_audio=}')

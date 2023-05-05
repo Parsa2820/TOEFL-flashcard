@@ -1,6 +1,7 @@
 # lesson 06
 
 ## chiefly
+![](audio/chiefly.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -13,6 +14,7 @@
 </details>
 
 ## coarse
+![](audio/coarse.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -27,6 +29,7 @@
 </details>
 
 ## commonplace
+![](audio/commonplace.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -37,6 +40,7 @@
 </details>
 
 ## comparatively
+![](audio/comparatively.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -53,6 +57,7 @@
 </details>
 
 ## complex
+![](audio/complex.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -65,6 +70,7 @@
 </details>
 
 ## conventional
+![](audio/conventional.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -79,6 +85,7 @@
 </details>
 
 ## curious
+![](audio/curious.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -93,6 +100,7 @@
 </details>
 
 ## emit
+![](audio/emit.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -105,6 +113,7 @@
 </details>
 
 ## exceedingly
+![](audio/exceedingly.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -121,6 +130,7 @@
 </details>
 
 ## exclusively
+![](audio/exclusively.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -137,6 +147,7 @@
 </details>
 
 ## extinguish
+![](audio/extinguish.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -151,6 +162,7 @@
 </details>
 
 ## immense
+![](audio/immense.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -165,6 +177,7 @@
 </details>
 
 ## rigid
+![](audio/rigid.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -177,6 +190,7 @@
 </details>
 
 ## routinely
+![](audio/routinely.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -191,6 +205,7 @@
 </details>
 
 ## stamina
+![](audio/stamina.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -201,6 +216,7 @@
 </details>
 
 ## sufficiently
+![](audio/sufficiently.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -217,6 +233,7 @@
 </details>
 
 ## visibly
+![](audio/visibly.ogg)
 <details>
 <summary>I don't know</summary>
 

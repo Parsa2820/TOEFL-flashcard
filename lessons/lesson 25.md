@@ -1,6 +1,7 @@
 # lesson 25
 
 ## briefly
+![](audio/briefly.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -15,6 +16,7 @@
 </details>
 
 ## circulate
+![](audio/circulate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -29,6 +31,7 @@
 </details>
 
 ## consistently
+![](audio/consistently.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -45,6 +48,7 @@
 </details>
 
 ## exhibit
+![](audio/exhibit.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -57,6 +61,7 @@
 </details>
 
 ## found
+![](audio/found.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -69,6 +74,7 @@
 </details>
 
 ## improperly
+![](audio/improperly.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -83,6 +89,7 @@
 </details>
 
 ## impulsively
+![](audio/impulsively.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -97,6 +104,7 @@
 </details>
 
 ## infrequently
+![](audio/infrequently.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -109,6 +117,7 @@
 </details>
 
 ## isolated
+![](audio/isolated.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -123,6 +132,7 @@
 </details>
 
 ## overtly
+![](audio/overtly.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -135,6 +145,7 @@
 </details>
 
 ## profoundly
+![](audio/profoundly.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -149,6 +160,7 @@
 </details>
 
 ## sharply
+![](audio/sharply.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -165,6 +177,7 @@
 </details>
 
 ## situated
+![](audio/situated.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -179,6 +192,7 @@
 </details>
 
 ## subsequently
+![](audio/subsequently.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -191,6 +205,7 @@
 </details>
 
 ## unmistakable
+![](audio/unmistakable.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -201,6 +216,7 @@
 </details>
 
 ## upstanding
+![](audio/upstanding.ogg)
 <details>
 <summary>I don't know</summary>
 

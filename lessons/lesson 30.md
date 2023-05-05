@@ -1,6 +1,7 @@
 # lesson 30
 
 ## charisma
+![](audio/charisma.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -13,6 +14,7 @@
 </details>
 
 ## clever
+![](audio/clever.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -27,6 +29,7 @@
 </details>
 
 ## convince
+![](audio/convince.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -41,6 +44,7 @@
 </details>
 
 ## endure
+![](audio/endure.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -55,6 +59,7 @@
 </details>
 
 ## forfeit
+![](audio/forfeit.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -67,6 +72,7 @@
 </details>
 
 ## precarious
+![](audio/precarious.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -79,6 +85,7 @@
 </details>
 
 ## severe
+![](audio/severe.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -93,6 +100,7 @@
 </details>
 
 ## sporadic
+![](audio/sporadic.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -105,6 +113,7 @@
 </details>
 
 ## superior
+![](audio/superior.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -117,6 +126,7 @@
 </details>
 
 ## truncate
+![](audio/truncate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -129,6 +139,7 @@
 </details>
 
 ## wanton
+![](audio/wanton.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -141,6 +152,7 @@
 </details>
 
 ## weak
+![](audio/weak.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -157,6 +169,7 @@
 </details>
 
 ## widespread
+![](audio/widespread.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -167,6 +180,7 @@
 </details>
 
 ## wisdom
+![](audio/wisdom.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -181,6 +195,7 @@
 </details>
 
 ## witticism
+![](audio/witticism.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -195,6 +210,7 @@
 </details>
 
 ## woo
+![](audio/woo.ogg)
 <details>
 <summary>I don't know</summary>
 

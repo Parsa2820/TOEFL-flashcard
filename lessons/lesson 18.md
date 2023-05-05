@@ -1,6 +1,7 @@
 # lesson 18
 
 ## absurd
+![](audio/absurd.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -15,6 +16,7 @@
 </details>
 
 ## allocation
+![](audio/allocation.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -29,6 +31,7 @@
 </details>
 
 ## balanced
+![](audio/balanced.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -43,6 +46,7 @@
 </details>
 
 ## come across
+![](audio/come across.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -53,6 +57,7 @@
 </details>
 
 ## culminate
+![](audio/culminate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -67,6 +72,7 @@
 </details>
 
 ## demeanor
+![](audio/demeanor.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -77,6 +83,7 @@
 </details>
 
 ## exert
+![](audio/exert.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -89,6 +96,7 @@
 </details>
 
 ## fallacious
+![](audio/fallacious.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -103,6 +111,7 @@
 </details>
 
 ## feasible
+![](audio/feasible.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -117,6 +126,7 @@
 </details>
 
 ## lack
+![](audio/lack.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -131,6 +141,7 @@
 </details>
 
 ## limber
+![](audio/limber.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -141,6 +152,7 @@
 </details>
 
 ## means
+![](audio/means.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -151,6 +163,7 @@
 </details>
 
 ## narrow
+![](audio/narrow.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -165,6 +178,7 @@
 </details>
 
 ## preconception
+![](audio/preconception.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -179,6 +193,7 @@
 </details>
 
 ## robust
+![](audio/robust.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -193,6 +208,7 @@
 </details>
 
 ## steady
+![](audio/steady.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -209,6 +225,7 @@
 </details>
 
 ## swift
+![](audio/swift.ogg)
 <details>
 <summary>I don't know</summary>
 

@@ -1,6 +1,7 @@
 # lesson 27
 
 ## aptly
+![](audio/aptly.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -15,6 +16,7 @@
 </details>
 
 ## demonstration
+![](audio/demonstration.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -33,6 +35,7 @@
 </details>
 
 ## ingredients
+![](audio/ingredients.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -43,6 +46,7 @@
 </details>
 
 ## involuntarily
+![](audio/involuntarily.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -55,6 +59,7 @@
 </details>
 
 ## marvel
+![](audio/marvel.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -69,6 +74,7 @@
 </details>
 
 ## moderate
+![](audio/moderate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -85,6 +91,7 @@
 </details>
 
 ## motivate
+![](audio/motivate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -99,6 +106,7 @@
 </details>
 
 ## odd
+![](audio/odd.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -113,6 +121,7 @@
 </details>
 
 ## profuse
+![](audio/profuse.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -127,6 +136,7 @@
 </details>
 
 ## reflection
+![](audio/reflection.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -141,6 +151,7 @@
 </details>
 
 ## succinct
+![](audio/succinct.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -153,6 +164,7 @@
 </details>
 
 ## supposedly
+![](audio/supposedly.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -169,6 +181,7 @@
 </details>
 
 ## sustained
+![](audio/sustained.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -181,6 +194,7 @@
 </details>
 
 ## symbols
+![](audio/symbols.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -197,6 +211,7 @@
 </details>
 
 ## synthesis
+![](audio/synthesis.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -215,6 +230,7 @@
 </details>
 
 ## tangible
+![](audio/tangible.ogg)
 <details>
 <summary>I don't know</summary>
 

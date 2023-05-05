@@ -1,6 +1,7 @@
 # lesson 07
 
 ## attribute
+![](audio/attribute.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -15,6 +16,7 @@
 </details>
 
 ## brash
+![](audio/brash.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -29,6 +31,7 @@
 </details>
 
 ## clarify
+![](audio/clarify.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -41,6 +44,7 @@
 </details>
 
 ## conceal
+![](audio/conceal.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -53,6 +57,7 @@
 </details>
 
 ## confirm
+![](audio/confirm.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -67,6 +72,7 @@
 </details>
 
 ## convenient
+![](audio/convenient.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -81,6 +87,7 @@
 </details>
 
 ## core
+![](audio/core.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -93,6 +100,7 @@
 </details>
 
 ## critical
+![](audio/critical.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -109,6 +117,7 @@
 </details>
 
 ## discrepancy
+![](audio/discrepancy.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -119,6 +128,7 @@
 </details>
 
 ## distort
+![](audio/distort.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -133,6 +143,7 @@
 </details>
 
 ## diverse
+![](audio/diverse.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -149,6 +160,7 @@
 </details>
 
 ## eventually
+![](audio/eventually.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -159,6 +171,7 @@
 </details>
 
 ## prosperous
+![](audio/prosperous.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -175,6 +188,7 @@
 </details>
 
 ## purposefully
+![](audio/purposefully.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -189,6 +203,7 @@
 </details>
 
 ## reveal
+![](audio/reveal.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -205,6 +220,7 @@
 </details>
 
 ## scarcely
+![](audio/scarcely.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -219,6 +235,7 @@
 </details>
 
 ## theoretically
+![](audio/theoretically.ogg)
 <details>
 <summary>I don't know</summary>
 

@@ -1,6 +1,7 @@
 # lesson 24
 
 ## affordable
+![](audio/affordable.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -15,6 +16,7 @@
 </details>
 
 ## contaminated
+![](audio/contaminated.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -29,6 +31,7 @@
 </details>
 
 ## discernible
+![](audio/discernible.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -45,6 +48,7 @@
 </details>
 
 ## flourishing
+![](audio/flourishing.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -57,6 +61,7 @@
 </details>
 
 ## maintain
+![](audio/maintain.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -69,6 +74,7 @@
 </details>
 
 ## mediocre
+![](audio/mediocre.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -81,6 +87,7 @@
 </details>
 
 ## negligible
+![](audio/negligible.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -97,6 +104,7 @@
 </details>
 
 ## parallel
+![](audio/parallel.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -109,6 +117,7 @@
 </details>
 
 ## peculiar
+![](audio/peculiar.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -123,6 +132,7 @@
 </details>
 
 ## potent
+![](audio/potent.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -133,6 +143,7 @@
 </details>
 
 ## remarkable
+![](audio/remarkable.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -145,6 +156,7 @@
 </details>
 
 ## scattered
+![](audio/scattered.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -157,6 +169,7 @@
 </details>
 
 ## solid
+![](audio/solid.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -173,6 +186,7 @@
 </details>
 
 ## somewhat
+![](audio/somewhat.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -183,6 +197,7 @@
 </details>
 
 ## stem from
+![](audio/stem from.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -193,6 +208,7 @@
 </details>
 
 ## tedious
+![](audio/tedious.ogg)
 <details>
 <summary>I don't know</summary>
 

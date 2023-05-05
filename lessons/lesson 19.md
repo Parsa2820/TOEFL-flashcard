@@ -1,6 +1,7 @@
 # lesson 19
 
 ## antiquated
+![](audio/antiquated.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -13,6 +14,7 @@
 </details>
 
 ## coherent
+![](audio/coherent.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -31,6 +33,7 @@
 </details>
 
 ## evolve
+![](audio/evolve.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -43,6 +46,7 @@
 </details>
 
 ## fabricate
+![](audio/fabricate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -57,6 +61,7 @@
 </details>
 
 ## generic
+![](audio/generic.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -69,6 +74,7 @@
 </details>
 
 ## investigation
+![](audio/investigation.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -83,6 +89,7 @@
 </details>
 
 ## normally
+![](audio/normally.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -99,6 +106,7 @@
 </details>
 
 ## notion
+![](audio/notion.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -109,6 +117,7 @@
 </details>
 
 ## novel
+![](audio/novel.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -119,6 +128,7 @@
 </details>
 
 ## nurture
+![](audio/nurture.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -133,6 +143,7 @@
 </details>
 
 ## opposition
+![](audio/opposition.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -147,6 +158,7 @@
 </details>
 
 ## relate
+![](audio/relate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -161,6 +173,7 @@
 </details>
 
 ## suspect
+![](audio/suspect.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -175,6 +188,7 @@
 </details>
 
 ## transform
+![](audio/transform.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -187,6 +201,7 @@
 </details>
 
 ## trigger
+![](audio/trigger.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -199,6 +214,7 @@
 </details>
 
 ## unbiased
+![](audio/unbiased.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -209,6 +225,7 @@
 </details>
 
 ## varied
+![](audio/varied.ogg)
 <details>
 <summary>I don't know</summary>
 

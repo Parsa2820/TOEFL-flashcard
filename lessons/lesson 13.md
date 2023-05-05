@@ -1,6 +1,7 @@
 # lesson 13
 
 ## crucial
+![](audio/crucial.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -13,6 +14,7 @@
 </details>
 
 ## dignitary
+![](audio/dignitary.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -23,6 +25,7 @@
 </details>
 
 ## elude
+![](audio/elude.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -37,6 +40,7 @@
 </details>
 
 ## evident
+![](audio/evident.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -51,6 +55,7 @@
 </details>
 
 ## exhaust
+![](audio/exhaust.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -67,6 +72,7 @@
 </details>
 
 ## extensive
+![](audio/extensive.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -83,6 +89,7 @@
 </details>
 
 ## face
+![](audio/face.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -93,6 +100,7 @@
 </details>
 
 ## facet
+![](audio/facet.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -105,6 +113,7 @@
 </details>
 
 ## idol
+![](audio/idol.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -117,6 +126,7 @@
 </details>
 
 ## inaccessible
+![](audio/inaccessible.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -131,6 +141,7 @@
 </details>
 
 ## oblivious
+![](audio/oblivious.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -143,6 +154,7 @@
 </details>
 
 ## obviously
+![](audio/obviously.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -155,6 +167,7 @@
 </details>
 
 ## offensive
+![](audio/offensive.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -169,6 +182,7 @@
 </details>
 
 ## predictably
+![](audio/predictably.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -185,6 +199,7 @@
 </details>
 
 ## suitable
+![](audio/suitable.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -199,6 +214,7 @@
 </details>
 
 ## surpass
+![](audio/surpass.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -213,6 +229,7 @@
 </details>
 
 ## uphold
+![](audio/uphold.ogg)
 <details>
 <summary>I don't know</summary>
 

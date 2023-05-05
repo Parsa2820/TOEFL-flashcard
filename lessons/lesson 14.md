@@ -1,6 +1,7 @@
 # lesson 14
 
 ## ample
+![](audio/ample.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -13,6 +14,7 @@
 </details>
 
 ## arduous
+![](audio/arduous.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -27,6 +29,7 @@
 </details>
 
 ## arid
+![](audio/arid.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -37,6 +40,7 @@
 </details>
 
 ## avert
+![](audio/avert.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -51,6 +55,7 @@
 </details>
 
 ## defy
+![](audio/defy.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -65,6 +70,7 @@
 </details>
 
 ## diligent
+![](audio/diligent.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -79,6 +85,7 @@
 </details>
 
 ## enact
+![](audio/enact.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -93,6 +100,7 @@
 </details>
 
 ## feign
+![](audio/feign.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -105,6 +113,7 @@
 </details>
 
 ## fertile
+![](audio/fertile.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -119,6 +128,7 @@
 </details>
 
 ## freshly
+![](audio/freshly.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -135,6 +145,7 @@
 </details>
 
 ## function
+![](audio/function.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -151,6 +162,7 @@
 </details>
 
 ## fundamental
+![](audio/fundamental.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -163,6 +175,7 @@
 </details>
 
 ## indiscriminate
+![](audio/indiscriminate.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -175,6 +188,7 @@
 </details>
 
 ## pinpoint
+![](audio/pinpoint.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -187,6 +201,7 @@
 </details>
 
 ## selective
+![](audio/selective.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -203,6 +218,7 @@
 </details>
 
 ## spacious
+![](audio/spacious.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -217,6 +233,7 @@
 </details>
 
 ## withstand
+![](audio/withstand.ogg)
 <details>
 <summary>I don't know</summary>
 

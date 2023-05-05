@@ -1,6 +1,7 @@
 # lesson 15
 
 ## adhere
+![](audio/adhere.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -13,6 +14,7 @@
 </details>
 
 ## durable
+![](audio/durable.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -25,6 +27,7 @@
 </details>
 
 ## foster
+![](audio/foster.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -37,6 +40,7 @@
 </details>
 
 ## gain
+![](audio/gain.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -51,6 +55,7 @@
 </details>
 
 ## halt
+![](audio/halt.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -67,6 +72,7 @@
 </details>
 
 ## handle
+![](audio/handle.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -79,6 +85,7 @@
 </details>
 
 ## harbor
+![](audio/harbor.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -89,6 +96,7 @@
 </details>
 
 ## harmful
+![](audio/harmful.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -105,6 +113,7 @@
 </details>
 
 ## insignificant
+![](audio/insignificant.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -119,6 +128,7 @@
 </details>
 
 ## mysterious
+![](audio/mysterious.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -133,6 +143,7 @@
 </details>
 
 ## perilous
+![](audio/perilous.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -147,6 +158,7 @@
 </details>
 
 ## promote
+![](audio/promote.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -159,6 +171,7 @@
 </details>
 
 ## redundant
+![](audio/redundant.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -173,6 +186,7 @@
 </details>
 
 ## reject
+![](audio/reject.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -185,6 +199,7 @@
 </details>
 
 ## substantial
+![](audio/substantial.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -197,6 +212,7 @@
 </details>
 
 ## trait
+![](audio/trait.ogg)
 <details>
 <summary>I don't know</summary>
 
@@ -207,6 +223,7 @@
 </details>
 
 ## underscore
+![](audio/underscore.ogg)
 <details>
 <summary>I don't know</summary>
 
