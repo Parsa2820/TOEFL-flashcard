@@ -20,9 +20,15 @@ class Word:
     details: dict
 
 
+no_audio = 0
+
+
 def download_audio(word: str) -> None:
     url = f'https://commons.wikimedia.org/wiki/File:En-us-{word}.ogg'
     response = requests.get(url)
+    if requests.status_codes == 404:
+        no_audio += 1
+        return
     file_url = BeautifulSoup(response.content, "html.parser").find(
         class_='fullMedia').findChild('a')['href']
     wget.download(file_url, f'audio/{word}.ogg')
@@ -62,3 +68,5 @@ for lesson in lessons:
         template = jinja2.Template(f.read())
     with open(f'lessons/{lesson.title}.md', 'w') as f:
         f.write(template.render(lesson=lesson))
+
+print(f'{no_audio=}')
